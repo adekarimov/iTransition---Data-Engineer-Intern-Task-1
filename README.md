@@ -32,4 +32,4 @@ python 2_sql.py
 ## Notes
 
 * Invalid records are saved in `bad_records.txt`
-* The script can be run multiple times without errors (idempotent)
+* The script can be run multiple times without errors
