@@ -1,0 +1,504 @@
+{[{"id":10292064894005717421, "title":"Look Homeward, Angel", "author":"Prof. Teressa Kautzer", "genre":"Humor", "publisher":"Brill Publishers", "year":2010, "price":"$87.25"}
+{"id":10710862295239027728, "title":"The Stars" Tennis Balls", "author":"Roland Johns", "genre":"Suspense/Thriller", "publisher":"Black Library", "year":2010, "price":"€54.25"}
+{"id":9973953023030722881, "title":"The Monkey"s Raincoat", "author":"Sheena Schumm Ret.", "genre":"Realistic fiction", "publisher":"Orion Books", "year":1988, "price":"$38.00"}
+{"id":10966605713926860808, "title":"L"Odeur du sanglier", "author":"Anatolie Gay, Laporte Aquilin", "genre":"Horror", "publisher":"Bordel père et fils", "year":2008, "price":"€58.99"}
+{"id":14106891543489108830, "title":"Edna O"Brien", "author":"The Hon. Latashia Krajcik", "genre":"Metafiction", "publisher":"Booktrope", "year":2003, "price":"€35.99"}
+{"id":10964260573802701738, "title":"No Country for Old Men", "author":"Joseph Brakus", "genre":"Fanfiction", "publisher":"Ellora"s Cave", "year":1998, "price":"$23.75"}
+{"id":10380960236120104421, "title":"Now Sleeps the Crimson Petal", "author":"Junko Beer DC", "genre":"Fairy tale", "publisher":"O"Reilly Media", "year":1990, "price":"€39.0"}
+{"id":17132400248688720458, "title":"Blood"s a Rover", "author":"The Hon. Marilyn MacGyver", "genre":"Horror", "publisher":"Virago Press", "year":2026, "price":"$59.99"}
+{"id":14974923427389652091, "title":"The Curious Incident of the Dog in the Night-Time", "author":"Hong O"Hara MD", "genre":"Fairy tale", "publisher":"Mascot Books", "year":2014, "price":"$31.25"}
+{"id":11705640022632668905, "title":"Edna O"Brien", "author":"Rochel Lebsack", "genre":"Horror", "publisher":"Leaf Books", "year":2002, "price":"€45.75"}
+{"id":16718684923237587741, "title":"Consider the Lilies", "author":"Clement O"Connell", "genre":"Science fiction", "publisher":"Macmillan Publishers", "year":1989, "price":"$16.50"}
+{"id":13950517975969754449, "title":"Recalled to Life", "author":"Carmine Ferry", "genre":"Historical fiction", "publisher":"Charles Scribner"s Sons", "year":1989, "price":"$86.5"}
+{"id":16024059010958122765, "title":"The Wives of Bath", "author":"Meghan Thompson", "genre":"Metafiction", "publisher":"Charles Scribner"s Sons", "year":1994, "price":"$17.99"}
+{"id":18307183848667493386, "title":"The Other Side of Silence", "author":"Neoma D"Amore LLD, Clement Cole", "genre":"Western", "publisher":"Farrar, Straus & Giroux", "year":1986, "price":"$46.0"}
+{"id":13715517835818844148, "title":"L"Odyssée invisible", "author":"Leroy Amandin", "genre":"Fantasy", "publisher":"Au lecteur éclairé", "year":1988, "price":"$36.99"}
+{"id":15028853373550836030, "title":"Blood"s a Rover", "author":"Florrie Schneider, Darrin Bruen", "genre":"Metafiction", "publisher":"Airiti Press", "year":1994, "price":"$84.00"}
+{"id":13266516026358765757, "title":"The Monkey"s Raincoat", "author":"Rodney Hilpert", "genre":"Science fiction", "publisher":"Eerdmans Publishing", "year":1986, "price":"€6.0"}
+{"id":12554479609131130911, "title":"I Know Why the Caged Bird Sings", "author":"Fernande Spencer", "genre":"Mythology", "publisher":"G. P. Putnam"s Sons", "year":2012, "price":"$18.00"}
+{"id":17286925427810306803, "title":"The Monkey"s Raincoat", "author":"Jaime O"Kon DDS", "genre":"Fanfiction", "publisher":"Carcanet Press", "year":1955, "price":"$87.25"}
+{"id":13135245082538273418, "title":"For Whom the Bell Tolls", "author":"Rev. Mervin Kutch", "genre":"Fairy tale", "publisher":"Ellora"s Cave", "year":2012, "price":"€42.0"}
+{"id":9720861224190296312, "title":"The Needle"s Eye", "author":"Trent Schuster", "genre":"Narrative nonfiction", "publisher":"Anvil Press Poetry", "year":2006, "price":"$4.75"}
+{"id":15624809866128806137, "title":"The Stars" Tennis Balls", "author":"Russell Lebsack", "genre":"Suspense/Thriller", "publisher":"McFarland & Company", "year":2021, "price":"$16.0"}
+{"id":14344091968563638140, "title":"All the King"s Men", "author":"Bulah Lakin", "genre":"Fable", "publisher":"Andrews McMeel Publishing", "year":2014, "price":"$29.75"}
+{"id":14083308333666007484, "title":"By Grand Central Station I Sat Down and Wept", "author":"Odis Kohler", "genre":"Western", "publisher":"G. P. Putnam"s Sons", "year":1998, "price":"$24.50"}
+{"id":17647680308692105568, "title":"L"Odyssée invisible", "author":"Capt. Alcide Marchal", "genre":"Classic", "publisher":"Éditions du Soleil", "year":2006, "price":"$57.0"}
+{"id":14449135915497703873, "title":"L"Odeur du sanglier", "author":"Cdt. Sylvain Moreau", "genre":"Comic/Graphic Novel", "publisher":"Lire en dormant", "year":1993, "price":"$46.75"}
+{"id":14669534651172216294, "title":"The Mirror Crack"d from Side to Side", "author":"Ida Gislason", "genre":"Realistic fiction", "publisher":"Gaspereau Press", "year":1987, "price":"$25.00"}
+{"id":15546171533284043449, "title":"L"Odyssée invisible", "author":"Mme Henriette Jean", "genre":"Folklore", "publisher":"Éditions du Soleil", "year":2006, "price":"$22.25"}
+{"id":18296549403515465149, "title":"Edna O"Brien", "author":"Carol Deckow", "genre":"Fable", "publisher":"Belknap Press", "year":2000, "price":"$31.50"}
+{"id":13787624418682230046, "title":"Blood"s a Rover", "author":"Gov. Eldora Hudson", "genre":"Fairy tale", "publisher":"Shuter & Shooter Publishers", "year":2012, "price":"$87.5"}
+{"id":10291919002176843157, "title":"The Mirror Crack"d from Side to Side", "author":"Herbert Kohler", "genre":"Horror", "publisher":"Hodder Headline", "year":2008, "price":"$20.50"}
+{"id":9664896749124128601, "title":"The Needle"s Eye", "author":"Chassidy Hane PhD", "genre":"Crime/Detective", "publisher":"Bloodaxe Books", "year":2026, "price":"$84.00"}
+{"id":9673258327243954971, "title":"L"Odeur du sanglier", "author":"Fournier Léon, Mme Roseline Boyer", "genre":"Fiction narrative", "publisher":"Au lecteur éclairé", "year":2005, "price":"€28.5"}
+{"id":14528962792645718252, "title":"L"Odeur du sanglier", "author":"Me Sixte Aubert", "genre":"Fairy tale", "publisher":"Éditions du Soleil", "year":2001, "price":"€10.0"}
+{"id":10467541739071391235, "title":"L"Odyssée invisible", "author":"Archange Renault", "genre":"Mythopoeia", "publisher":"Au lecteur éclairé", "year":2005, "price":"€5.99"}
+{"id":9916663026396020013, "title":"The Monkey"s Raincoat", "author":"Rev. Alesia Davis", "genre":"Suspense/Thriller", "publisher":"Secker & Warburg", "year":2012, "price":"$27.25"}
+{"id":17764587157423732993, "title":"The Golden Bowl", "author":"Scot O"Hara LLD, Ronnie Kuphal", "genre":"Suspense/Thriller", "publisher":"Kensington Books", "year":2025, "price":"€73.75"}
+{"id":10900984841450444759, "title":"Postern of Fate", "author":"Jewell Marquardt LLD", "genre":"Folklore", "publisher":"G. P. Putnam"s Sons", "year":1996, "price":"$22.00"}
+{"id":16774298811713377565, "title":"Precious Bane", "author":"Jesse Kozey JD", "genre":"Legend", "publisher":"Ellora"s Cave", "year":1994, "price":"$55.99"}
+{"id":11554992587993370200, "title":"The Wind"s Twelve Quarters", "author":"Opal Yundt", "genre":"Fiction in verse", "publisher":"Caister Academic Press", "year":1987, "price":"$9.0"}
+{"id":13534016900049148451, "title":"Time of our Darkness", "author":"Fr. Quinn O"Connell", "genre":"Fable", "publisher":"Leaf Books", "year":2019, "price":"$71.5"}
+{"id":11281810694651866930, "title":"The Violent Bear It Away", "author":"Theo O"Keefe", "genre":"Suspense/Thriller", "publisher":"Airiti Press", "year":2015, "price":"$51.0"}
+{"id":16095160610390213705, "title":"Wildfire at Midnight", "author":"Rashad Abshire", "genre":"Crime/Detective", "publisher":"Ellora"s Cave", "year":2021, "price":"€16.75"}
+{"id":15022869002498147041, "title":"Beyond the Mexique Bay", "author":"The Hon. Lilliana Brakus", "genre":"Speech", "publisher":"G. P. Putnam"s Sons", "year":2016, "price":"$79.99"}
+{"id":10343803531010021061, "title":"All the King"s Men", "author":"Christia Kirlin DO", "genre":"Essay", "publisher":"O"Reilly Media", "year":1990, "price":"$45.25"}
+{"id":11319680381058975449, "title":"The Soldier"s Art", "author":"Arthur Leannon", "genre":"Fable", "publisher":"Berkley Books", "year":2011, "price":"€50.75"}
+{"id":12411087462597779196, "title":"The Wind"s Twelve Quarters", "author":"Ginny Hilll", "genre":"Short story", "publisher":"Chambers Harrap", "year":2011, "price":"$4.25"}
+{"id":14349078518758584135, "title":"A Passage to India", "author":"Beckie Lockman", "genre":"Realistic fiction", "publisher":"Gay Men"s Press", "year":2020, "price":"$92.5"}
+{"id":18393556784630587995, "title":"The Wind"s Twelve Quarters", "author":"Otto Grady", "genre":"Fiction narrative", "publisher":"E. P. Dutton", "year":2001, "price":"€17.00"}
+{"id":11258977883618178312, "title":"Look to Windward", "author":"Darnell Terry, Larry Pfeffer", "genre":"Textbook", "publisher":"St. Martin"s Press", "year":1993, "price":"$88.00"}
+{"id":14939995382977591268, "title":"L"Odyssée invisible", "author":"Capt. Dorothée Carpentier", "genre":"Western", "publisher":"Les Éditions jaune turquoise", "year":1988, "price":"$31.0"}
+{"id":18110679886982651831, "title":"The Mirror Crack"d from Side to Side", "author":"Hosea Moore DC", "genre":"Horror", "publisher":"Kensington Books", "year":2022, "price":"$92.00"}
+{"id":15443707480632549566, "title":"The Needle"s Eye", "author":"Trinity Jenkins", "genre":"Textbook", "publisher":"Allen Ltd", "year":1999, "price":"$29.00"}
+{"id":10868384256386175002, "title":"Blithe Spirit", "author":"Dr. Jenee Greenholt", "genre":"Fantasy", "publisher":"Gay Men"s Press", "year":1989, "price":"$62.50"}
+{"id":18237665158621449551, "title":"All the King"s Men", "author":"Kimberly Zieme", "genre":"Fiction in verse", "publisher":"Harper & Brothers", "year":2014, "price":"$71.0"}
+{"id":16387386096217597549, "title":"L"Odyssée invisible", "author":"Françoise Pichon", "genre":"Mystery", "publisher":"Lire en dormant", "year":1871, "price":"€76.25"}
+{"id":10884030640657554091, "title":"L"Odeur du sanglier", "author":"Renard Dieudonnée", "genre":"Fiction in verse", "publisher":"Les Éditions jaune turquoise", "year":2020, "price":"$65.75"}
+{"id":10052547543652780599, "title":"The Mirror Crack"d from Side to Side", "author":"Gertrude Mohr", "genre":"Short story", "publisher":"Harper & Row", "year":2006, "price":"$48.75"}
+{"id":17628953765590844865, "title":"The Soldier"s Art", "author":"Sandy Boyle", "genre":"Crime/Detective", "publisher":"University of Alaska Press", "year":2002, "price":"$57.25"}
+{"id":10603049035045693152, "title":"Edna O"Brien", "author":"Josette Conroy", "genre":"Crime/Detective", "publisher":"Book League of America", "year":1955, "price":"$6.99"}
+{"id":17008993397708552393, "title":"Far From the Madding Crowd", "author":"Arden O"Reilly Esq.", "genre":"Metafiction", "publisher":"Hackett Publishing Company", "year":2008, "price":"€7.50"}
+{"id":13254820816441734503, "title":"Gone with the Wind", "author":"Bud Greenholt, Rev. Raymundo O"Connell", "genre":"Suspense/Thriller", "publisher":"Carnegie Mellon University Press", "year":1905, "price":"$66.0"}
+{"id":17077182759486618364, "title":"The Soldier"s Art", "author":"Fr. Sharee Olson", "genre":"Horror", "publisher":"Parachute Publishing", "year":1988, "price":"€43.50"}
+{"id":13284664230039376640, "title":"The Monkey"s Raincoat", "author":"Dr. Gwyneth Mertz", "genre":"Mystery", "publisher":"Burns & Oates", "year":1993, "price":"$38.25"}
+{"id":10735833325992722410, "title":"Where Angels Fear to Tread", "author":"Pres. Francis Kerluke", "genre":"Crime/Detective", "publisher":"St. Martin"s Press", "year":2023, "price":"$34.75"}
+{"id":9987496868942857964, "title":"The Green Bay Tree", "author":"Von Wilderman", "genre":"Science fiction", "publisher":"Charles Scribner"s Sons", "year":2008, "price":"$52.99"}
+{"id":17161639057450972866, "title":"Tiger! Tiger!", "author":"Harrison Reinger", "genre":"Textbook", "publisher":"Charles Scribner"s Sons", "year":1987, "price":"$16.0"}
+{"id":18393022726830288803, "title":"All the King"s Men", "author":"Elin Mitchell", "genre":"Comic/Graphic Novel", "publisher":"Harcourt Trade Publishers", "year":1883, "price":"€38.75"}
+{"id":13974315709318417310, "title":"The Wind"s Twelve Quarters", "author":"Fr. Donovan Deckow", "genre":"Folklore", "publisher":"Karadi Tales", "year":2024, "price":"$93.00"}
+{"id":16452046819699698487, "title":"The Monkey"s Raincoat", "author":"Tequila Buckridge", "genre":"Speech", "publisher":"Da Capo Press", "year":2001, "price":"$48.00"}
+{"id":16476743135356944814, "title":"Everything is Illuminated", "author":"Berna O"Connell", "genre":"Fiction narrative", "publisher":"Unfinished Monument Press", "year":2009, "price":"$65.00"}
+{"id":15848370719678105686, "title":"All the King"s Men", "author":"Eloise Stanton", "genre":"Humor", "publisher":"McGraw-Hill Education", "year":1992, "price":"$22.0"}
+{"id":16049679170995380148, "title":"L"Odyssée invisible", "author":"Antide Marty", "genre":"Mystery", "publisher":"Éditions du Soleil", "year":1995, "price":"$95.5"}
+{"id":12182713967906478656, "title":"Death Be Not Proud", "author":"Toshiko O"Kon", "genre":"Reference book", "publisher":"Harper & Brothers", "year":2026, "price":"€30.50"}
+{"id":11862663133026413049, "title":"The Mirror Crack"d from Side to Side", "author":"Mrs. Shaunte Miller", "genre":"Science fiction", "publisher":"Addison-Wesley", "year":2013, "price":"$55.25"}
+{"id":11893983774998646801, "title":"L"Odyssée invisible", "author":"Fr. Athanase Bonnet", "genre":"Fantasy", "publisher":"Au lecteur éclairé", "year":2006, "price":"$99.5"}
+{"id":11848792413922807188, "title":"L"Odyssée invisible", "author":"Firmin Barre", "genre":"Science fiction", "publisher":"Lire en dormant", "year":2014, "price":"€33.5"}
+{"id":11664667369293236633, "title":"All the King"s Men", "author":"Isadora Toy", "genre":"Humor", "publisher":"Hackett Publishing Company", "year":2011, "price":"€72.50"}
+{"id":13798085256948631269, "title":"It"s a Battlefield", "author":"Georgine Weber", "genre":"Biography/Autobiography", "publisher":"Tarpaulin Sky Press", "year":2013, "price":"€41.00"}
+{"id":13668733167174668511, "title":"The Wind"s Twelve Quarters", "author":"Keitha Bogisich", "genre":"Textbook", "publisher":"Atheneum Publishers", "year":2021, "price":"€6.75"}
+{"id":16793106800003419363, "title":"All the King"s Men", "author":"Joesph Vandervort DC", "genre":"Textbook", "publisher":"Pecan Grove Press", "year":2015, "price":"$51.0"}
+{"id":12581479843641126518, "title":"The Monkey"s Raincoat", "author":"Edythe Nolan", "genre":"Mythopoeia", "publisher":"Borgo Press", "year":2016, "price":"$87.5"}
+{"id":14415114869333054968, "title":"It"s a Battlefield", "author":"Lorri Halvorson", "genre":"Fiction in verse", "publisher":"Lethe Press", "year":2018, "price":"$6.0"}
+{"id":12706386900596069183, "title":"A Farewell to Arms", "author":"Sheldon Abshire", "genre":"Folklore", "publisher":"O"Reilly Media", "year":2025, "price":"€30.5"}
+{"id":15995409288958019829, "title":"Mr Standfast", "author":"Giovanni Bergnaum CPA", "genre":"Comic/Graphic Novel", "publisher":"Gay Men"s Press", "year":1986, "price":"€37.5"}
+{"id":14506886830672289498, "title":"It"s a Battlefield", "author":"Joellen Carroll", "genre":"Speech", "publisher":"John Blake Publishing", "year":2011, "price":"$88.75"}
+{"id":11809733731736754723, "title":"Frequent Hearses", "author":"Jules O"Reilly", "genre":"Textbook", "publisher":"Faber and Faber", "year":2003, "price":"$26.25"}
+{"id":15084406974827225467, "title":"All the King"s Men", "author":"Curt Ferry", "genre":"Legend", "publisher":"Medknow Publications", "year":1987, "price":"$4.50"}
+{"id":17389144133605172122, "title":"Let Us Now Praise Famous Men", "author":"Prof. Josie O"Keefe", "genre":"Humor", "publisher":"Atheneum Publishers", "year":2000, "price":"$24.50"}
+{"id":14878751004070055788, "title":"Pale Kings and Princes", "author":"Mr. Bonnie Fadel", "genre":"Humor", "publisher":"Charles Scribner"s Sons", "year":2006, "price":"$27.0"}
+{"id":14145486948087881331, "title":"The Needle"s Eye", "author":"Gov. Norine Heathcote", "genre":"Fiction narrative", "publisher":"Simon & Schuster", "year":2005, "price":"€74.25"}
+{"id":16124681899104996722, "title":"All the King"s Men", "author":"Dino Wisozk", "genre":"Comic/Graphic Novel", "publisher":"Del Rey Books", "year":1990, "price":"€52.5"}
+{"id":9854783593988445365, "title":"Taming a Sea Horse", "author":"Ivan O"Kon", "genre":"Western", "publisher":"Barrie & Jenkins", "year":1988, "price":"$34.0"}
+{"id":13865228003194481756, "title":"The Soldier"s Art", "author":"Irving Grady", "genre":"Essay", "publisher":"University of Michigan Press", "year":2024, "price":"€52.5"}
+{"id":12811158552150482918, "title":"I Sing the Body Electric", "author":"The Hon. Aja O"Kon", "genre":"Fable", "publisher":"Eerdmans Publishing", "year":2010, "price":"€22.99"}
+{"id":16553729647181981111, "title":"What"s Become of Waring", "author":"Shandi Schneider", "genre":"Mystery", "publisher":"Earthscan", "year":2014, "price":"$59.99"}
+{"id":9931767145329762753, "title":"Edna O"Brien", "author":"Msgr. Ashleigh White", "genre":"Folklore", "publisher":"David & Charles", "year":1871, "price":"€71.25"}
+{"id":11129869380872404535, "title":"A Time to Kill", "author":"Cordell Kuvalis I", "genre":"Historical fiction", "publisher":"Gay Men"s Press", "year":1987, "price":"€65.5"}
+{"id":12924325769898899411, "title":"L"Odeur du sanglier", "author":"Adélaïde Ménard", "genre":"Mystery", "publisher":"Les Éditions jaune turquoise", "year":2003, "price":"€57.00"}
+{"id":14357978126427782750, "title":"The Doors of Perception", "author":"Min Reinger", "genre":"Humor", "publisher":"G. P. Putnam"s Sons", "year":2001, "price":"$72.75"}
+{"id":15790329312645840579, "title":"Blood"s a Rover", "author":"Mohammad Blanda", "genre":"Textbook", "publisher":"Manning Publications", "year":1996, "price":"$62.00"}
+{"id":12259346561840012738, "title":"A Confederacy of Dunces", "author":"Dorsey O"Connell", "genre":"Mystery", "publisher":"Nauka", "year":2023, "price":"$78.50"}
+{"id":13031808432508934784, "title":"What"s Become of Waring", "author":"Dara Lakin MD, Ai Labadie", "genre":"Mystery", "publisher":"Voyager Books", "year":2016, "price":"$89.50"}
+{"id":18405167793378303066, "title":"The Needle"s Eye", "author":"Christie Kuhn Esq., Sina Emmerich", "genre":"Legend", "publisher":"Adis International", "year":2013, "price":"$69.50"}
+{"id":14793366868186295206, "title":"The Mirror Crack"d from Side to Side", "author":"Margarite Hirthe, Von Hilll", "genre":"Fantasy", "publisher":"Velazquez Press", "year":1905, "price":"$43.00"}
+{"id":10871456010663015612, "title":"The Grapes of Wrath", "author":"Sen. Jenae Gutmann", "genre":"Short story", "publisher":"Ellora"s Cave", "year":2002, "price":"€42.5"}
+{"id":9355217477796608693, "title":"An Acceptable Time", "author":"Lashay Kihn", "genre":"Realistic fiction", "publisher":"G. P. Putnam"s Sons", "year":2015, "price":"$99.5"}
+{"id":15683063184115000415, "title":"No Highway", "author":"Salvatore Dicki", "genre":"Mythology", "publisher":"Charles Scribner"s Sons", "year":2013, "price":"$43.50"}
+{"id":9828993968849761982, "title":"The Wind"s Twelve Quarters", "author":"Glennis Wisozk", "genre":"Fanfiction", "publisher":"Carlton Publishing Group", "year":1994, "price":"$88.00"}
+{"id":15936203508430651884, "title":"The Man Within", "author":"Curtis O"Conner", "genre":"Legend", "publisher":"Butterworth-Heinemann", "year":1999, "price":"$69.5"}
+{"id":16358995575549035226, "title":"The Soldier"s Art", "author":"Herta Altenwerth", "genre":"Biography/Autobiography", "publisher":"Carlton Books", "year":1998, "price":"$16.0"}
+{"id":11947857426485023655, "title":"For Whom the Bell Tolls", "author":"Leda Abshire", "genre":"Science fiction", "publisher":"Charles Scribner"s Sons", "year":1938, "price":"$66.0"}
+{"id":12451404160237127627, "title":"Oh! To be in England", "author":"Sen. Deneen Larson", "genre":"Metafiction", "publisher":"O"Reilly Media", "year":1988, "price":"$13.99"}
+{"id":17342699378452943410, "title":"Now Sleeps the Crimson Petal", "author":"Gov. Cythia O"Keefe", "genre":"Mystery", "publisher":"Bowes & Bowes", "year":2011, "price":"$93.0"}
+{"id":14084500323113203950, "title":"All the King"s Men", "author":"Prof. Vesta Lueilwitz", "genre":"Classic", "publisher":"Allen Ltd", "year":2004, "price":"€30.00"}
+{"id":13348607370364942005, "title":"A Confederacy of Dunces", "author":"Lucila Reynolds, Fernande Greenholt", "genre":"Suspense/Thriller", "publisher":"Charles Scribner"s Sons", "year":2004, "price":"$72.00"}
+{"id":15203688778016689292, "title":"What"s Become of Waring", "author":"Jaime Oberbrunner", "genre":"Folklore", "publisher":"Seagull Books", "year":2006, "price":"€13.75"}
+{"id":11322428591369179248, "title":"Precious Bane", "author":"Rodney Jast, Amb. Dara Will", "genre":"Crime/Detective", "publisher":"St. Martin"s Press", "year":1989, "price":"$7.99"}
+{"id":13759279245291195681, "title":"Blood"s a Rover", "author":"Joshua Casper I, Ardath Pfeffer", "genre":"Fiction narrative", "publisher":"Jarrolds Publishing", "year":1995, "price":"€49.25"}
+{"id":15250030448528301457, "title":"For Whom the Bell Tolls", "author":"Mrs. Perry Crona", "genre":"Fanfiction", "publisher":"O"Reilly Media", "year":1989, "price":"€43.50"}
+{"id":14952619313487783257, "title":"The Soldier"s Art", "author":"Hosea Marvin", "genre":"Classic", "publisher":"Oberon Books", "year":1871, "price":"$43.50"}
+{"id":16868211824603659385, "title":"The Wings of the Dove", "author":"Msgr. Virgie Torp", "genre":"Science fiction", "publisher":"Ellora"s Cave", "year":2018, "price":"$76.5"}
+{"id":15965956972065639127, "title":"Shall not Perish", "author":"Stan Kuhn LLD", "genre":"Western", "publisher":"O"Reilly Media", "year":2012, "price":"$59.5"}
+{"id":11499888927711916430, "title":"Rosemary Sutcliff", "author":"Matt Kunze Esq.", "genre":"Mythopoeia", "publisher":"Charles Scribner"s Sons", "year":2012, "price":"$88.5"}
+{"id":11752142299882754610, "title":"The Lathe of Heaven", "author":"Brett Gleichner", "genre":"Mystery", "publisher":"G. P. Putnam"s Sons", "year":1990, "price":"$44.25"}
+{"id":10938522097648545891, "title":"Absalom, Absalom!", "author":"Marylee Skiles Ret.", "genre":"Suspense/Thriller", "publisher":"O"Reilly Media", "year":2001, "price":"$57.99"}
+{"id":13695083343034699606, "title":"The Mirror Crack"d from Side to Side", "author":"Claude Kulas DVM", "genre":"Fairy tale", "publisher":"BBC Books", "year":2004, "price":"€25.0"}
+{"id":18422442377833838007, "title":"The Monkey"s Raincoat", "author":"Londa Maggio, Verline Lang", "genre":"Mystery", "publisher":"New Directions Publishing", "year":2005, "price":"$34.00"}
+{"id":14713776946618425276, "title":"What"s Become of Waring", "author":"Keesha Corkery", "genre":"Fable", "publisher":"Matthias Media", "year":2004, "price":"€36.5"}
+{"id":17452987761672351500, "title":"The Grapes of Wrath", "author":"Basil O"Conner", "genre":"Fanfiction", "publisher":"McFarland & Company", "year":2019, "price":"$99.50"}
+{"id":17739015825925867219, "title":"Waiting for the Barbarians", "author":"Rex O"Reilly", "genre":"Legend", "publisher":"University of Alaska Press", "year":2006, "price":"€51.99"}
+{"id":16198279256686805087, "title":"L"Odyssée invisible", "author":"Adm. Cyprien Barbier", "genre":"Horror", "publisher":"Lire en dormant", "year":2024, "price":"€14.25"}
+{"id":14266750889174149213, "title":"Those Barren Leaves, Thrones, Dominations", "author":"Candie O"Kon", "genre":"Comic/Graphic Novel", "publisher":"Voyager Books", "year":1991, "price":"$21.00"}
+{"id":13798880072188885498, "title":"The Mirror Crack"d from Side to Side", "author":"Elana Kessler", "genre":"Tall tale", "publisher":"Churchill Livingstone", "year":2009, "price":"€20.25"}
+{"id":12050054820187076662, "title":"L"Odeur du sanglier", "author":"Col. Asceline Faure", "genre":"Fiction narrative", "publisher":"Au lecteur éclairé", "year":2026, "price":"$95.50"}
+{"id":11563684576878742975, "title":"Tender Is the Night", "author":"Odell D"Amore MD", "genre":"Science fiction", "publisher":"Firebrand Books", "year":2025, "price":"€23.00"}
+{"id":16588020672843502951, "title":"The Soldier"s Art", "author":"Flossie Schuster", "genre":"Mythopoeia", "publisher":"Atlantic Books", "year":2015, "price":"$50.5"}
+{"id":10556464961828228365, "title":"The Soldier"s Art", "author":"Pres. Jolynn Waelchi", "genre":"Essay", "publisher":"Verso Books", "year":1992, "price":"$55.00"}
+{"id":18260108916230848555, "title":"If Not Now, When?", "author":"Alan Beahan", "genre":"Crime/Detective", "publisher":"Charles Scribner"s Sons", "year":2013, "price":"$7.00"}
+{"id":16030048636427853917, "title":"The Needle"s Eye", "author":"Emmitt Mohr", "genre":"Narrative nonfiction", "publisher":"Brill Publishers", "year":1990, "price":"€73.99"}
+{"id":10723696868615251604, "title":"Tiger! Tiger!", "author":"Marinda Muller", "genre":"Fairy tale", "publisher":"Charles Scribner"s Sons", "year":2013, "price":"€32.50"}
+{"id":17197325858387812127, "title":"Edna O"Brien", "author":"Sheba Miller", "genre":"Essay", "publisher":"UCL Press", "year":1996, "price":"$57.0"}
+{"id":12419077717061992786, "title":"Lilies of the Field", "author":"Dante Hagenes", "genre":"Realistic fiction", "publisher":"Charles Scribner"s Sons", "year":2026, "price":"$15.5"}
+{"id":9873054114559133222, "title":"Blood"s a Rover", "author":"Jeremiah Becker", "genre":"Suspense/Thriller", "publisher":"Banner of Truth Trust", "year":2000, "price":"$82.50"}
+{"id":13897604789621204085, "title":"An Instant In The Wind", "author":"Seth O"Keefe", "genre":"Realistic fiction", "publisher":"Banner of Truth Trust", "year":2020, "price":"$7.75"}
+{"id":11780336075902649773, "title":"Edna O"Brien", "author":"Mr. Sook Hyatt", "genre":"Short story", "publisher":"Martinus Nijhoff Publishers", "year":2006, "price":"$68.50"}
+{"id":15986452569416396200, "title":"Edna O"Brien", "author":"Msgr. Odis Shanahan", "genre":"Classic", "publisher":"Karadi Tales", "year":2000, "price":"€33.5"}
+{"id":18045286795658886822, "title":"The Soldier"s Art", "author":"Kirby Grady", "genre":"Reference book", "publisher":"Sams Publishing", "year":2003, "price":"€9.5"}
+{"id":16385338163925501914, "title":"The Monkey"s Raincoat", "author":"Reynalda Morar", "genre":"Mystery", "publisher":"Casemate Publishers", "year":2014, "price":"$74.5"}
+{"id":11317840530280000409, "title":"The Sun Also Rises", "author":"Ezekiel D"Amore", "genre":"Folklore", "publisher":"Bantam Spectra", "year":1998, "price":"$33.75"}
+{"id":13516324825711232197, "title":"Shall not Perish", "author":"Kina Treutel JD", "genre":"Speech", "publisher":"O"Reilly Media", "year":2002, "price":"€53.25"}
+{"id":10648824080731504301, "title":"The Moving Finger", "author":"Marcelino O"Kon, Art Kunde", "genre":"Legend", "publisher":"Belknap Press", "year":1998, "price":"$49.75"}
+{"id":13464405139387020316, "title":"Time of our Darkness", "author":"Dario Jerde Esq., Valene O"Conner", "genre":"Crime/Detective", "publisher":"Leafwood Publishers", "year":2007, "price":"€30.99"}
+{"id":12354237929169921166, "title":"L"Odyssée invisible", "author":"Mélissandre Blanc", "genre":"Fantasy", "publisher":"Lire en dormant", "year":1993, "price":"$53.00"}
+{"id":16898000649296822212, "title":"The Soldier"s Art", "author":"Marielle Brakus", "genre":"Speech", "publisher":"Nonesuch Press", "year":2007, "price":"$28.00"}
+{"id":11332141453644614757, "title":"The Needle"s Eye", "author":"Nickolas Larson", "genre":"Realistic fiction", "publisher":"Sams Publishing", "year":2019, "price":"$25.5"}
+{"id":9556598778617783147, "title":"The Needle"s Eye", "author":"Alonzo Hahn Jr.", "genre":"Fable", "publisher":"New Village Press", "year":1997, "price":"$74.50"}
+{"id":13584663159374930388, "title":"The Needle"s Eye", "author":"Lionel Hamill", "genre":"Science fiction", "publisher":"SAGE Publications", "year":2018, "price":"€72.50"}
+{"id":10236370203653018991, "title":"The Mirror Crack"d from Side to Side", "author":"Mikaela Turcotte", "genre":"Comic/Graphic Novel", "publisher":"Left Book Club", "year":2006, "price":"$6.5"}
+{"id":17780877040771493717, "title":"The Soldier"s Art", "author":"Albert Graham", "genre":"Mystery", "publisher":"Pathfinder Press", "year":2011, "price":"$66.0"}
+{"id":14211885803335268028, "title":"It"s a Battlefield", "author":"Tera Rowe Sr.", "genre":"Reference book", "publisher":"FabJob", "year":2017, "price":"$41.75"}
+{"id":17530962249299706256, "title":"The Grapes of Wrath", "author":"Jamel D"Amore", "genre":"Folklore", "publisher":"Nonesuch Press", "year":1999, "price":"€62.25"}
+{"id":17114326435849897172, "title":"All the King"s Men", "author":"Drusilla Beier", "genre":"Speech", "publisher":"Brill Publishers", "year":2006, "price":"$39.99"}
+{"id":10185195402001212224, "title":"All the King"s Men", "author":"Elliot Kiehn", "genre":"Fantasy", "publisher":"Liberty Fund", "year":2017, "price":"$25.5"}
+{"id":18015010389651601576, "title":"The Monkey"s Raincoat", "author":"Robert Christiansen Sr.", "genre":"Classic", "publisher":"D. Appleton & Company", "year":1993, "price":"€27.00"}
+{"id":14389743095787308713, "title":"L"Odyssée invisible", "author":"Claude Martinez", "genre":"Fiction narrative", "publisher":"Lire en dormant", "year":2003, "price":"$95.25"}
+{"id":10884505408815088960, "title":"Blood"s a Rover", "author":"Freeman Nienow", "genre":"Crime/Detective", "publisher":"Nonesuch Press", "year":2015, "price":"€29.25"}
+{"id":12069873634213877042, "title":"The Last Enemy", "author":"Franklin O"Hara", "genre":"Mythology", "publisher":"Bellevue Literary Press", "year":2020, "price":"$28.99"}
+{"id":11878501524818001239, "title":"Time of our Darkness", "author":"Lance Mills", "genre":"Fiction in verse", "publisher":"Ellora"s Cave", "year":1995, "price":"$16.00"}
+{"id":16708058378009271483, "title":"L"Odeur du sanglier", "author":"Garcia Aloïse", "genre":"Legend", "publisher":"Lire en dormant", "year":1996, "price":"$46.0"}
+{"id":10506905296002147544, "title":"The Moon by Night", "author":"Ariana Cronin", "genre":"Classic", "publisher":"Charles Scribner"s Sons", "year":2005, "price":"€58.00"}
+{"id":17507952796696818806, "title":"All the King"s Men", "author":"Ms. Frankie Watsica", "genre":"Textbook", "publisher":"Pavilion Books", "year":2010, "price":"$81.50"}
+{"id":13275907444004194499, "title":"The Mirror Crack"d from Side to Side", "author":"Georgianne Russel, Roselee Greenholt", "genre":"Fantasy", "publisher":"Open Court Publishing Company", "year":2004, "price":"$21.99"}
+{"id":13626098910336297617, "title":"What"s Become of Waring", "author":"Kimberely Herman Sr.", "genre":"Comic/Graphic Novel", "publisher":"Harvard University Press", "year":2023, "price":"€72.75"}
+{"id":18167124363507207250, "title":"It"s a Battlefield", "author":"Jaunita Bartell Ret.", "genre":"Legend", "publisher":"Lethe Press", "year":2000, "price":"$32.50"}
+{"id":14777517872947606240, "title":"What"s Become of Waring", "author":"Arturo Fahey", "genre":"Essay", "publisher":"George H. Doran Company", "year":2026, "price":"$12.50"}
+{"id":12978054005528336204, "title":"The Soldier"s Art", "author":"Perry Kerluke", "genre":"Fairy tale", "publisher":"Cambridge University Press", "year":1990, "price":"$68.5"}
+{"id":16210878518140989516, "title":"Butter In a Lordly Dish", "author":"Ruthann O"Reilly", "genre":"Tall tale", "publisher":"Victor Gollancz Ltd", "year":2026, "price":"$47.00"}
+{"id":17578335094525096149, "title":"L"Odeur du sanglier", "author":"Barre Ludivine", "genre":"Fairy tale", "publisher":"La Perdrix", "year":1994, "price":"$18.5"}
+{"id":14482523887793920382, "title":"Mr Standfast", "author":"Page O"Connell", "genre":"Speech", "publisher":"Verso Books", "year":2013, "price":"$28.99"}
+{"id":13086693172900874405, "title":"The Wind"s Twelve Quarters", "author":"Fr. Hellen Dooley", "genre":"Fanfiction", "publisher":"NavPress", "year":1997, "price":"$12.25"}
+{"id":15000948236451771283, "title":"It"s a Battlefield", "author":"Gov. Betsy Grimes", "genre":"Folklore", "publisher":"Macmillan Publishers", "year":1997, "price":"$25.0"}
+{"id":12430422257403899564, "title":"L"Odyssée invisible", "author":"Fr. Clovis Carpentier", "genre":"Science fiction", "publisher":"Éditions du Soleil", "year":2001, "price":"€70.99"}
+{"id":10939811651586463482, "title":"It"s a Battlefield", "author":"Marion Pollich", "genre":"Reference book", "publisher":"Emerald Group Publishing", "year":1883, "price":"$42.25"}
+{"id":11663101263619434115, "title":"The Mirror Crack"d from Side to Side", "author":"Clayton Kiehn", "genre":"Humor", "publisher":"Zed Books", "year":2002, "price":"$27.75"}
+{"id":10045599911467101840, "title":"The Soldier"s Art", "author":"Vickey Bruen", "genre":"Textbook", "publisher":"Da Capo Press", "year":2007, "price":"€16.25"}
+{"id":12533440639337798223, "title":"The Monkey"s Raincoat", "author":"The Hon. Melissa Nienow", "genre":"Science fiction", "publisher":"Charles Scribner"s Sons", "year":2018, "price":"€16.99"}
+{"id":17311317731147550621, "title":"Edna O"Brien", "author":"Jessi Ferry", "genre":"Fable", "publisher":"Harcourt Trade Publishers", "year":1995, "price":"$16.25"}
+{"id":17177637158782508173, "title":"The Stars" Tennis Balls", "author":"Mozell Rath", "genre":"Reference book", "publisher":"Book League of America", "year":1988, "price":"€68.5"}
+{"id":13678236613649599138, "title":"The Needle"s Eye", "author":"Lorinda Kirlin", "genre":"Fairy tale", "publisher":"Bowes & Bowes", "year":1997, "price":"$93.99"}
+{"id":15927682359781134373, "title":"The Soldier"s Art", "author":"Jerrica Stroman", "genre":"Science fiction", "publisher":"G. P. Putnam"s Sons", "year":1993, "price":"$90.75"}
+{"id":17174571748688334609, "title":"The Soldier"s Art", "author":"Mrs. Alethia Lesch, Wyatt Champlin", "genre":"Mythology", "publisher":"Taunton Press", "year":2024, "price":"€54.75"}
+{"id":18199402636830973654, "title":"The Mirror Crack"d from Side to Side", "author":"Waneta Donnelly", "genre":"Fanfiction", "publisher":"Bison Books", "year":2026, "price":"$58.00"}
+{"id":17884370731346627838, "title":"The Moving Toyshop", "author":"Msgr. Luis Farrell", "genre":"Fable", "publisher":"O"Reilly Media", "year":1886, "price":"€34.50"}
+{"id":17768720238468403112, "title":"Rosemary Sutcliff", "author":"Jerome Jerde, Kristie Cummings", "genre":"Mystery", "publisher":"Ellora"s Cave", "year":2026, "price":"€30.50"}
+{"id":9795724819243944325, "title":"The Wind"s Twelve Quarters", "author":"Kirk Turner", "genre":"Narrative nonfiction", "publisher":"Bantam Spectra", "year":2023, "price":"$21.75"}
+{"id":9491454684804891425, "title":"What"s Become of Waring", "author":"Victor Adams", "genre":"Fairy tale", "publisher":"University of California Press", "year":1991, "price":"$79.75"}
+{"id":14694188334172635275, "title":"What"s Become of Waring", "author":"Kris Volkman", "genre":"Fanfiction", "publisher":"FabJob", "year":2011, "price":"€71.0"}
+{"id":17213826394062849812, "title":"The Mirror Crack"d from Side to Side", "author":"Hobert Schultz", "genre":"Suspense/Thriller", "publisher":"New Directions Publishing", "year":2015, "price":"$9.50"}
+{"id":16319800763915359734, "title":"Dulce et Decorum Est", "author":"Fr. Jarred Stroman", "genre":"Crime/Detective", "publisher":"St. Martin"s Press", "year":2005, "price":"€18.50"}
+{"id":16540298881792490731, "title":"What"s Become of Waring", "author":"Celia Turner", "genre":"Mythopoeia", "publisher":"Atlantic Books", "year":2021, "price":"$79.50"}
+{"id":10887352527355651669, "title":"L"Odeur du sanglier", "author":"Coline Delaunay", "genre":"Metafiction", "publisher":"Au lecteur éclairé", "year":2014, "price":"$44.0"}
+{"id":9643841045592760144, "title":"This Lime Tree Bower", "author":"Amb. Joshua Howe", "genre":"Western", "publisher":"St. Martin"s Press", "year":1996, "price":"$80.5"}
+{"id":17442506265136281524, "title":"Waiting for the Barbarians", "author":"Wilbert Cummerata, Lou Larkin", "genre":"Mystery", "publisher":"Charles Scribner"s Sons", "year":1993, "price":"$87.00"}
+{"id":11716021260288889055, "title":"It"s a Battlefield", "author":"Bertram McGlynn JD", "genre":"Humor", "publisher":"DAW Books", "year":1988, "price":"$99.0"}
+{"id":11097845025659345075, "title":"Mother Night", "author":"Nicolette O"Keefe", "genre":"Historical fiction", "publisher":"Cengage Learning", "year":2018, "price":"$46.0"}
+{"id":16505867352881437486, "title":"The Other Side of Silence", "author":"Kandis King", "genre":"Historical fiction", "publisher":"St. Martin"s Press", "year":2004, "price":"$39.75"}
+{"id":9486432878474995420, "title":"The Last Enemy", "author":"Mariano Harber", "genre":"Science fiction", "publisher":"Charles Scribner"s Sons", "year":2010, "price":"$18.5"}
+{"id":15566765584362999529, "title":"L"Odeur du sanglier", "author":"Perrot Gaston", "genre":"Fanfiction", "publisher":"Les Éditions jaune turquoise", "year":2010, "price":"$97.25"}
+{"id":16106254576135919403, "title":"It"s a Battlefield", "author":"Jay Ernser", "genre":"Legend", "publisher":"Ballantine Books", "year":2002, "price":"$76.25"}
+{"id":14771768326897087783, "title":"Edna O"Brien", "author":"Boyce McKenzie", "genre":"Mythopoeia", "publisher":"Hogarth Press", "year":1991, "price":"$57.0"}
+{"id":17102905106600016659, "title":"L"Odeur du sanglier", "author":"Vasseur Aurian, Aleaume Dupuis", "genre":"Essay", "publisher":"La Perdrix", "year":2021, "price":"$18.99"}
+{"id":11230005711691907345, "title":"It"s a Battlefield", "author":"Aurelia Murazik CPA", "genre":"Classic", "publisher":"Kogan Page", "year":1999, "price":"$10.25"}
+{"id":12928470792705146875, "title":"The Yellow Meads of Asphodel", "author":"Cassey Strosin, Raquel Hartmann", "genre":"Mystery", "publisher":"O"Reilly Media", "year":2003, "price":"$51.25"}
+{"id":14859307326400744837, "title":"Jesting Pilate", "author":"Julienne Durgan", "genre":"Fable", "publisher":"Ellora"s Cave", "year":1996, "price":"$86.75"}
+{"id":12041307317085236956, "title":"All the King"s Men", "author":"Hong Cronin", "genre":"Humor", "publisher":"Seagull Books", "year":1871, "price":"$81.5"}
+{"id":13936096194406437539, "title":"The Wind"s Twelve Quarters", "author":"Cole Herzog", "genre":"Classic", "publisher":"Book League of America", "year":2015, "price":"€57.99"}
+{"id":15887126620946595056, "title":"All the King"s Men", "author":"Aide Collins", "genre":"Legend", "publisher":"Hamish Hamilton", "year":2022, "price":"$91.5"}
+{"id":16258560835344937994, "title":"L"Odeur du sanglier", "author":"Régis Monnier, Capt. Raymond Le Roux", "genre":"Horror", "publisher":"Au lecteur éclairé", "year":1993, "price":"$32.25"}
+{"id":12897967341442410080, "title":"Blood"s a Rover", "author":"Rufus Goodwin I, Miss Cleo Ferry", "genre":"Fable", "publisher":"Berkley Books", "year":2015, "price":"$54.00"}
+{"id":13734642532826750558, "title":"The Needle"s Eye", "author":"Maurice Schultz", "genre":"Crime/Detective", "publisher":"ECW Press", "year":2018, "price":"€29.25"}
+{"id":17084119021755798874, "title":"Endless Night", "author":"Melonie D"Amore", "genre":"Fairy tale", "publisher":"Marshall Cavendish", "year":2016, "price":"$68.5"}
+{"id":9294114847330165829, "title":"Blood"s a Rover", "author":"Pres. Monty Koelpin", "genre":"Textbook", "publisher":"Book Works", "year":2018, "price":"$31.50"}
+{"id":9815001633697603481, "title":"The Monkey"s Raincoat", "author":"Robin Hayes", "genre":"Realistic fiction", "publisher":"Carlton Publishing Group", "year":2009, "price":"€6.99"}
+{"id":11495568358456124944, "title":"A Time of Gifts", "author":"Thora D"Amore DC", "genre":"Suspense/Thriller", "publisher":"Imperial War Museum", "year":2009, "price":"€32.0"}
+{"id":9835455415630708937, "title":"The Wind"s Twelve Quarters", "author":"Dr. Don Renner", "genre":"Comic/Graphic Novel", "publisher":"Newnes", "year":2002, "price":"$18.75"}
+{"id":13655980642113638769, "title":"L"Odyssée invisible", "author":"Gen. Francine Martin", "genre":"Mystery", "publisher":"Lire en dormant", "year":2023, "price":"€36.50"}
+{"id":14790193246282707868, "title":"The Mirror Crack"d from Side to Side", "author":"Tambra Aufderhar", "genre":"Folklore", "publisher":"Ladybird Books", "year":2007, "price":"$39.0"}
+{"id":15252828586005980479, "title":"No Country for Old Men", "author":"Jarred Collier", "genre":"Comic/Graphic Novel", "publisher":"O"Reilly Media", "year":2002, "price":"$34.5"}
+{"id":16459155099025407770, "title":"Vile Bodies", "author":"Isaiah Oberbrunner", "genre":"Folklore", "publisher":"Ellora"s Cave", "year":2010, "price":"$41.50"}
+{"id":16999528265770115841, "title":"The Wind"s Twelve Quarters", "author":"Lahoma Brakus", "genre":"Realistic fiction", "publisher":"Bellevue Literary Press", "year":2017, "price":"$53.75"}
+{"id":14403851763090507078, "title":"The Monkey"s Raincoat", "author":"Pres. Lloyd Rohan", "genre":"Fable", "publisher":"Carcanet Press", "year":2007, "price":"$9.00"}
+{"id":14652042392640855646, "title":"Blood"s a Rover", "author":"Sang VonRueden", "genre":"Western", "publisher":"Flame Tree Publishing", "year":1886, "price":"$79.00"}
+{"id":13148848121641188171, "title":"Blood"s a Rover", "author":"Pres. Elidia Mann", "genre":"Humor", "publisher":"Tachyon Publications", "year":1995, "price":"$22.5"}
+{"id":10926889328814087509, "title":"The Monkey"s Raincoat", "author":"Aisha Toy", "genre":"Legend", "publisher":"Sams Publishing", "year":2008, "price":"$27.00"}
+{"id":16070828323244317667, "title":"The Soldier"s Art", "author":"Jere Considine", "genre":"Historical fiction", "publisher":"HMSO", "year":1990, "price":"€46.50"}
+{"id":10447285980505999041, "title":"L"Odeur du sanglier", "author":"Guy Blanchard", "genre":"Fanfiction", "publisher":"La Perdrix", "year":1997, "price":"$68.50"}
+{"id":14764031993903976471, "title":"L"Odyssée invisible", "author":"Fr. Théodose Remy", "genre":"Biography/Autobiography", "publisher":"Éditions du Soleil", "year":2022, "price":"$51.50"}
+{"id":10494407168979886383, "title":"Blood"s a Rover", "author":"Gov. Alvin Sanford", "genre":"Fiction narrative", "publisher":"Atlantic Books", "year":2006, "price":"$98.5"}
+{"id":11903350046924671681, "title":"Edna O"Brien", "author":"Minta Schumm", "genre":"Comic/Graphic Novel", "publisher":"Happy House", "year":2011, "price":"$78.25"}
+{"id":9227101296389391515, "title":"The Wives of Bath", "author":"Reginald Runolfsdottir, Jamal Green", "genre":"Fanfiction", "publisher":"Ellora"s Cave", "year":2018, "price":"$14.99"}
+{"id":14812769840451721581, "title":"The Stars" Tennis Balls", "author":"Vanesa Kilback", "genre":"Realistic fiction", "publisher":"Anova Books", "year":2001, "price":"$97.50"}
+{"id":15205416042088952926, "title":"The Soldier"s Art", "author":"Heather Bosco", "genre":"Fable", "publisher":"G. P. Putnam"s Sons", "year":2026, "price":"$86.75"}
+{"id":14160323791658812654, "title":"The Mirror Crack"d from Side to Side", "author":"Desiree Hamill Ret.", "genre":"Historical fiction", "publisher":"Del Rey Books", "year":2010, "price":"€18.0"}
+{"id":17612053062504167552, "title":"In Dubious Battle", "author":"Darnell Nicolas Esq.", "genre":"Fable", "publisher":"St. Martin"s Press", "year":1989, "price":"€38.50"}
+{"id":11603031220446527650, "title":"Blood"s a Rover", "author":"Jackie Kuhn III", "genre":"Fiction in verse", "publisher":"Golden Cockerel Press", "year":1997, "price":"$14.75"}
+{"id":9478037833832897773, "title":"Specimen Days", "author":"Carlo Bogisich", "genre":"Comic/Graphic Novel", "publisher":"Gay Men"s Press", "year":2019, "price":"$72.99"}
+{"id":10696664564968958163, "title":"The Soldier"s Art", "author":"Thurman Hettinger", "genre":"Historical fiction", "publisher":"Verso Books", "year":2014, "price":"$51.75"}
+{"id":12712299983269126118, "title":"Edna O"Brien", "author":"Rep. Maxwell Hackett", "genre":"Reference book", "publisher":"Edupedia Publications", "year":2014, "price":"€14.25"}
+{"id":12440680251469618984, "title":"The Little Foxes", "author":"Kyra O"Conner", "genre":"Speech", "publisher":"Hogarth Press", "year":1991, "price":"$75.50"}
+{"id":14865724853181769906, "title":"The Stars" Tennis Balls", "author":"Lisabeth Funk", "genre":"Historical fiction", "publisher":"Hachette Book Group USA", "year":1990, "price":"$55.50"}
+{"id":11721367311918752189, "title":"Down to a Sunless Sea", "author":"Dustin O"Conner Esq.", "genre":"Reference book", "publisher":"ECW Press", "year":2012, "price":"$35.99"}
+{"id":11528483007266062970, "title":"For Whom the Bell Tolls", "author":"Efrain O"Reilly IV", "genre":"Realistic fiction", "publisher":"Martinus Nijhoff Publishers", "year":2003, "price":"$49.50"}
+{"id":15571415723660248242, "title":"Some Buried Caesar", "author":"Eugenio Reichert", "genre":"Humor", "publisher":"Ellora"s Cave", "year":1998, "price":"$20.00"}
+{"id":10833398611761156718, "title":"L"Odeur du sanglier", "author":"Aymardine Fabre", "genre":"Short story", "publisher":"Bordel père et fils", "year":2007, "price":"€61.0"}
+{"id":11061706463066665917, "title":"All the King"s Men", "author":"Normand Mann", "genre":"Fiction in verse", "publisher":"Bloomsbury Publishing Plc", "year":2000, "price":"$42.75"}
+{"id":18433944593179273784, "title":"A Darkling Plain", "author":"Samual Gottlieb, Caleb Upton", "genre":"Fairy tale", "publisher":"Charles Scribner"s Sons", "year":1993, "price":"$88.0"}
+{"id":14854186872217331760, "title":"L"Odeur du sanglier", "author":"Carre Urbain", "genre":"Crime/Detective", "publisher":"Au lecteur éclairé", "year":2009, "price":"$35.25"}
+{"id":13206295063710190752, "title":"It"s a Battlefield", "author":"Keith Kuhlman", "genre":"Horror", "publisher":"Random House", "year":2003, "price":"$41.25"}
+{"id":14415314018879758027, "title":"Antic Hay", "author":"Augustine Dare", "genre":"Fanfiction", "publisher":"G. P. Putnam"s Sons", "year":2000, "price":"$65.0"}
+{"id":9425590062453254147, "title":"What"s Become of Waring", "author":"Maribel Funk", "genre":"Fable", "publisher":"Voyager Books", "year":1905, "price":"$65.0"}
+{"id":17281979024309398138, "title":"All the King"s Men", "author":"Hilda Lebsack, Oretha Bode", "genre":"Horror", "publisher":"Packt Publishing", "year":2005, "price":"$82.5"}
+{"id":12664477177600467055, "title":"L"Odyssée invisible", "author":"Enguerrand Noël", "genre":"Fairy tale", "publisher":"Lire en dormant", "year":1988, "price":"$84.50"}
+{"id":15984700455513187859, "title":"The Wind"s Twelve Quarters", "author":"Mr. Wade Cummings", "genre":"Fantasy", "publisher":"T & T Clark", "year":1990, "price":"$66.00"}
+{"id":12911418179569277180, "title":"The Wind"s Twelve Quarters", "author":"Issac Moen", "genre":"Biography/Autobiography", "publisher":"Naiad Press", "year":1883, "price":"$32.99"}
+{"id":17238010582351857457, "title":"The Wind"s Twelve Quarters", "author":"Anthony Jacobs", "genre":"Short story", "publisher":"Martinus Nijhoff Publishers", "year":2023, "price":"$45.25"}
+{"id":10717170570231077337, "title":"The Needle"s Eye", "author":"Mr. Adolfo Gottlieb", "genre":"Western", "publisher":"Shambhala Publications", "year":2026, "price":"€47.99"}
+{"id":18114582390645464794, "title":"The Mirror Crack"d from Side to Side", "author":"Raelene Wisoky CPA", "genre":"Historical fiction", "publisher":"Koren Publishers Jerusalem", "year":2019, "price":"$78.75"}
+{"id":9519532453347124850, "title":"Edna O"Brien", "author":"Prof. Berry Deckow, Doreen Bayer", "genre":"Western", "publisher":"G. P. Putnam"s Sons", "year":1999, "price":"$16.75"}
+{"id":15226537576785750062, "title":"Edna O"Brien", "author":"Marlin Rosenbaum", "genre":"Crime/Detective", "publisher":"J. M. Dent", "year":1883, "price":"$55.25"}
+{"id":15718871753359739761, "title":"The Little Foxes", "author":"Augustina Blick Sr.", "genre":"Historical fiction", "publisher":"G. P. Putnam"s Sons", "year":1999, "price":"€27.0"}
+{"id":18065750573546296738, "title":"All the King"s Men", "author":"Ethel Lowe", "genre":"Short story", "publisher":"Voyager Books", "year":2022, "price":"€31.0"}
+{"id":13922745114819037052, "title":"Precious Bane", "author":"Sen. Freddie Kunze, Marilee Bradtke", "genre":"Fiction narrative", "publisher":"G. P. Putnam"s Sons", "year":2017, "price":"$48.5"}
+{"id":13973086409831577775, "title":"Blood"s a Rover", "author":"Parker Toy", "genre":"Comic/Graphic Novel", "publisher":"Holt McDougal", "year":2003, "price":"$88.25"}
+{"id":11525362755139074963, "title":"The Monkey"s Raincoat", "author":"Jospeh Watsica I", "genre":"Mystery", "publisher":"Atlantic Books", "year":2023, "price":"$28.00"}
+{"id":12186405395541937102, "title":"It"s a Battlefield", "author":"Sherell Trantow", "genre":"Fairy tale", "publisher":"Shambhala Publications", "year":1958, "price":"€78.5"}
+{"id":15122960107028131603, "title":"What"s Become of Waring", "author":"Rueben Schumm III", "genre":"Horror", "publisher":"Banner of Truth Trust", "year":1990, "price":"$48.50"}
+{"id":10875736954084870558, "title":"All the King"s Men", "author":"Mi Koelpin", "genre":"Biography/Autobiography", "publisher":"Bantam Books", "year":1994, "price":"$95.50"}
+{"id":18158739246788984552, "title":"Edna O"Brien", "author":"Gerard Harris", "genre":"Western", "publisher":"HMSO", "year":2023, "price":"$16.0"}
+{"id":16031255331323513555, "title":"The Soldier"s Art", "author":"Mr. Hector Kuphal", "genre":"Fiction in verse", "publisher":"Ziff Davis Media", "year":2014, "price":"$91.00"}
+{"id":12929653354677902055, "title":"What"s Become of Waring", "author":"Ada Gulgowski", "genre":"Legend", "publisher":"Oberon Books", "year":2006, "price":"$48.50"}
+{"id":10611614426556462884, "title":"The Stars" Tennis Balls", "author":"Nita Hayes, Arturo Kris", "genre":"Fantasy", "publisher":"Academic Press", "year":2003, "price":"$35.0"}
+{"id":9892728130900807182, "title":"L"Odeur du sanglier", "author":"Albérade Lemaire", "genre":"Biography/Autobiography", "publisher":"Éditions du Soleil", "year":2017, "price":"$97.0"}
+{"id":15228113006317758417, "title":"The Monkey"s Raincoat", "author":"Shanna Mitchell", "genre":"Fantasy", "publisher":"Butterworth-Heinemann", "year":1905, "price":"€43.0"}
+{"id":13531463724258043470, "title":"All the King"s Men", "author":"Tatiana Reichert I", "genre":"Tall tale", "publisher":"Hachette Book Group USA", "year":2008, "price":"$38.50"}
+{"id":10357533975162159218, "title":"It"s a Battlefield", "author":"Carissa Huels", "genre":"Fable", "publisher":"Atheneum Books", "year":1938, "price":"$71.50"}
+{"id":14728929816755661115, "title":"It"s a Battlefield", "author":"Werner Maggio", "genre":"Biography/Autobiography", "publisher":"Kessinger Publishing", "year":1986, "price":"$51.99"}
+{"id":17805415245274815451, "title":"The Stars" Tennis Balls", "author":"Leon Sipes", "genre":"Humor", "publisher":"Bison Books", "year":2006, "price":"$52.0"}
+{"id":13011124621035308658, "title":"Absalom, Absalom!", "author":"Brett Legros, Prof. Elinor Littel", "genre":"Mythology", "publisher":"Charles Scribner"s Sons", "year":2011, "price":"€24.00"}
+{"id":12044613916975239718, "title":"A Time to Kill", "author":"Janae O"Kon", "genre":"Crime/Detective", "publisher":"Atheneum Publishers", "year":1871, "price":"€12.75"}
+{"id":12101618933206466484, "title":"The Needle"s Eye", "author":"Devorah Kris DDS", "genre":"Historical fiction", "publisher":"Orchard Books", "year":1958, "price":"€66.00"}
+{"id":14150420572522373534, "title":"The Sun Also Rises", "author":"Jonna Schowalter", "genre":"Tall tale", "publisher":"Charles Scribner"s Sons", "year":1999, "price":"€55.00"}
+{"id":11434715616017465859, "title":"Mother Night", "author":"Adelia Jacobson LLD", "genre":"Essay", "publisher":"Charles Scribner"s Sons", "year":1986, "price":"$55.75"}
+{"id":9259526073732057137, "title":"All the King"s Men", "author":"Fern Hammes", "genre":"Fable", "publisher":"Paulist Press", "year":2011, "price":"$74.5"}
+{"id":10538405559949505198, "title":"Blood"s a Rover", "author":"Pres. Sam Kuphal", "genre":"Tall tale", "publisher":"Boydell & Brewer", "year":2008, "price":"$22.5"}
+{"id":12929086272132897872, "title":"The Monkey"s Raincoat", "author":"Gov. Hazel Bogisich", "genre":"Biography/Autobiography", "publisher":"Ziff Davis Media", "year":1886, "price":"€44.75"}
+{"id":13971180337056353794, "title":"The Monkey"s Raincoat", "author":"Irwin Reilly, Leonarda Parisian", "genre":"Legend", "publisher":"Bloomsbury Publishing Plc", "year":1987, "price":"$80.5"}
+{"id":9709722175197223705, "title":"The Soldier"s Art", "author":"Euna Bayer I", "genre":"Realistic fiction", "publisher":"Gefen Publishing House", "year":1871, "price":"$8.50"}
+{"id":17707283196653950564, "title":"It"s a Battlefield", "author":"Charise Blick", "genre":"Fantasy", "publisher":"Parachute Publishing", "year":1998, "price":"$14.0"}
+{"id":10687378394637454298, "title":"Things Fall Apart", "author":"Haywood Ebert, Javier O"Conner", "genre":"Short story", "publisher":"Adis International", "year":2022, "price":"$81.25"}
+{"id":11133037442327460109, "title":"That Good Night", "author":"Ela Christiansen", "genre":"Classic", "publisher":"Gay Men"s Press", "year":1955, "price":"$91.99"}
+{"id":10407359581236003172, "title":"As I Lay Dying", "author":"Kendrick Keeling", "genre":"Biography/Autobiography", "publisher":"O"Reilly Media", "year":2018, "price":"$69.5"}
+{"id":10938617735629206624, "title":"Look Homeward, Angel", "author":"Velda O"Conner", "genre":"Textbook", "publisher":"Edupedia Publications", "year":1990, "price":"$27.99"}
+{"id":10061778536687794088, "title":"L"Odeur du sanglier", "author":"Amaryllis Poulain", "genre":"Fantasy", "publisher":"Lire en dormant", "year":2000, "price":"$19.99"}
+{"id":16981297262534364019, "title":"The Needle"s Eye", "author":"India Mayer", "genre":"Short story", "publisher":"Elsevier", "year":1994, "price":"$93.25"}
+{"id":16887438314527556481, "title":"The Little Foxes", "author":"Benny O"Connell, Kara McGlynn", "genre":"Reference book", "publisher":"Atheneum Publishers", "year":1991, "price":"$83.75"}
+{"id":14552588457644393500, "title":"The Sun Also Rises", "author":"Penney Rogahn Jr.", "genre":"Humor", "publisher":"O"Reilly Media", "year":2006, "price":"€73.5"}
+{"id":16930712963169697940, "title":"Edna O"Brien", "author":"Lauran Lebsack", "genre":"Historical fiction", "publisher":"Harlequin Enterprises Ltd", "year":1904, "price":"$95.25"}
+{"id":10334706907692668947, "title":"Blood"s a Rover", "author":"Christopher Koelpin", "genre":"Crime/Detective", "publisher":"Flame Tree Publishing", "year":2004, "price":"$14.99"}
+{"id":18024636551264374451, "title":"To Sail Beyond the Sunset", "author":"Frederick Halvorson", "genre":"Fiction in verse", "publisher":"G. P. Putnam"s Sons", "year":2001, "price":"$9.25"}
+{"id":10834534713968445271, "title":"The Last Temptation", "author":"Hye Nienow", "genre":"Suspense/Thriller", "publisher":"G. P. Putnam"s Sons", "year":1997, "price":"$94.75"}
+{"id":13647370905210295871, "title":"Now Sleeps the Crimson Petal", "author":"Will Yundt V", "genre":"Fiction narrative", "publisher":"Charles Scribner"s Sons", "year":2016, "price":"$87.00"}
+{"id":10044898285872848763, "title":"The Mirror Crack"d from Side to Side", "author":"Orval Cormier", "genre":"Tall tale", "publisher":"HarperCollins", "year":1993, "price":"$87.5"}
+{"id":12451887013264634721, "title":"In Death Ground", "author":"Moises Lakin", "genre":"Mythopoeia", "publisher":"G. P. Putnam"s Sons", "year":2010, "price":"$64.50"}
+{"id":12569812344663742913, "title":"Recalled to Life", "author":"Nicky O"Conner", "genre":"Reference book", "publisher":"Taylor & Francis", "year":2016, "price":"$74.50"}
+{"id":12130546609774798569, "title":"The Soldier"s Art", "author":"Santos Rath", "genre":"Speech", "publisher":"Harvard University Press", "year":2010, "price":"$7.99"}
+{"id":16697425818479265284, "title":"The Monkey"s Raincoat", "author":"Elena Kuhlman", "genre":"Humor", "publisher":"Atlas Press", "year":1987, "price":"$45.99"}
+{"id":11173486810473461995, "title":"The Lathe of Heaven", "author":"Trisha Abernathy", "genre":"Biography/Autobiography", "publisher":"O"Reilly Media", "year":1989, "price":"$27.25"}
+{"id":12119189805085150477, "title":"The Grapes of Wrath", "author":"Gavin Bosco", "genre":"Historical fiction", "publisher":"Charles Scribner"s Sons", "year":2020, "price":"$9.25"}
+{"id":15793365193610188786, "title":"The Stars" Tennis Balls", "author":"Sanford Walsh DDS", "genre":"Classic", "publisher":"Flame Tree Publishing", "year":2024, "price":"$39.0"}
+{"id":16510645628801379573, "title":"The Monkey"s Raincoat", "author":"Errol Cruickshank", "genre":"Historical fiction", "publisher":"Ten Speed Press", "year":1993, "price":"€66.00"}
+{"id":15701613106432515339, "title":"O Pioneers!", "author":"Jackson Tillman", "genre":"Mythology", "publisher":"O"Reilly Media", "year":2007, "price":"$59.99"}
+{"id":15512696330742148380, "title":"L"Odeur du sanglier", "author":"Col. Tancrède Leger, Adm. Josselin Aubert", "genre":"Reference book", "publisher":"Au lecteur éclairé", "year":1987, "price":"$59.75"}
+{"id":10012099998486930753, "title":"Blue Remembered Earth", "author":"Jessie Abshire, Chad Moore Jr.", "genre":"Science fiction", "publisher":"Ellora"s Cave", "year":1990, "price":"€18.99"}
+{"id":11937567519010293071, "title":"The Skull Beneath the Skin", "author":"Gil Cronin", "genre":"Realistic fiction", "publisher":"Charles Scribner"s Sons", "year":2001, "price":"$86.99"}
+{"id":11887697164464024298, "title":"Blood"s a Rover", "author":"Donnell Crona", "genre":"Fable", "publisher":"Flame Tree Publishing", "year":1997, "price":"$52.00"}
+{"id":14022406990282482395, "title":"Blood"s a Rover", "author":"Buffy Parisian", "genre":"Historical fiction", "publisher":"Ladybird Books", "year":2001, "price":"$83.25"}
+{"id":9395649848003453258, "title":"The Man Within", "author":"Andra Mayer", "genre":"Western", "publisher":"St. Martin"s Press", "year":2017, "price":"$47.5"}
+{"id":11944629235169445861, "title":"The Stars" Tennis Balls", "author":"Sen. Shari O"Conner", "genre":"Reference book", "publisher":"UCL Press", "year":1989, "price":"€68.99"}
+{"id":10713630638747291901, "title":"The House of Mirth", "author":"Dewitt McLaughlin III", "genre":"Short story", "publisher":"Charles Scribner"s Sons", "year":2019, "price":"$84.0"}
+{"id":9403586177796042274, "title":"Fame Is the Spur", "author":"Loreen Walter", "genre":"Tall tale", "publisher":"St. Martin"s Press", "year":2008, "price":"$57.99"}
+{"id":10218228080490622016, "title":"The Monkey"s Raincoat", "author":"Candie Walsh IV", "genre":"Suspense/Thriller", "publisher":"Manor House Publishing", "year":1988, "price":"€33.99"}
+{"id":12939374965908734893, "title":"The Monkey"s Raincoat", "author":"The Hon. Ricky Brekke", "genre":"Essay", "publisher":"ECW Press", "year":1988, "price":"$44.5"}
+{"id":9513864892558783307, "title":"The Stars" Tennis Balls", "author":"Peter Rempel", "genre":"Science fiction", "publisher":"George Routledge & Sons", "year":1990, "price":"$98.50"}
+{"id":15562905110403662837, "title":"No Highway", "author":"Darrin Fritsch", "genre":"Fable", "publisher":"G. P. Putnam"s Sons", "year":2001, "price":"$55.00"}
+{"id":9392881935110231908, "title":"The Sun Also Rises", "author":"Kimiko D"Amore", "genre":"Horror", "publisher":"McFarland & Company", "year":2008, "price":"$96.0"}
+{"id":14202360681920459438, "title":"Waiting for the Barbarians", "author":"Logan D"Amore", "genre":"Narrative nonfiction", "publisher":"Ten Speed Press", "year":1996, "price":"$51.0"}
+{"id":17396332084310732719, "title":"Nectar in a Sieve", "author":"Msgr. Florene Schiller", "genre":"Fable", "publisher":"Gay Men"s Press", "year":2002, "price":"€18.50"}
+{"id":16745288159616936268, "title":"The Stars" Tennis Balls", "author":"Geri Mosciski", "genre":"Western", "publisher":"Chick Publications", "year":2024, "price":"$56.50"}
+{"id":16920724239956940128, "title":"Dulce et Decorum Est", "author":"Dr. Simon Rempel", "genre":"Humor", "publisher":"Charles Scribner"s Sons", "year":1993, "price":"$42.0"}
+{"id":13245374417890938970, "title":"L"Odyssée invisible", "author":"Blanchard Évangéline", "genre":"Fable", "publisher":"Au lecteur éclairé", "year":2014, "price":"€79.75"}
+{"id":16673390834758153462, "title":"Sleep the Brave", "author":"Elmer Bartoletti", "genre":"Textbook", "publisher":"G. P. Putnam"s Sons", "year":2012, "price":"€71.25"}
+{"id":12471549226131330403, "title":"The World, the Flesh and the Devil", "author":"Jamison Schumm, Zachery McDermott", "genre":"Historical fiction", "publisher":"Gay Men"s Press", "year":1955, "price":"$60.25"}
+{"id":10816685727348445417, "title":"It"s a Battlefield", "author":"Sparkle Bednar", "genre":"Metafiction", "publisher":"Pecan Grove Press", "year":1995, "price":"€39.5"}
+{"id":12185204035058895533, "title":"L"Odyssée invisible", "author":"Libère Dumas", "genre":"Biography/Autobiography", "publisher":"Lire en dormant", "year":2022, "price":"$15.99"}
+{"id":12512775797664380810, "title":"All the King"s Men", "author":"Franklin Greenholt", "genre":"Essay", "publisher":"Berg Publishers", "year":1999, "price":"$14.00"}
+{"id":15460755694243040534, "title":"To Sail Beyond the Sunset", "author":"Zachery Koss", "genre":"Humor", "publisher":"Charles Scribner"s Sons", "year":1938, "price":"$11.75"}
+{"id":10269457923421870250, "title":"The Skull Beneath the Skin", "author":"Nicolas O"Conner III", "genre":"Mystery", "publisher":"Berg Publishers", "year":2005, "price":"€50.00"}
+{"id":15343830538994313438, "title":"Clouds of Witness", "author":"Sol Reinger", "genre":"Fairy tale", "publisher":"G. P. Putnam"s Sons", "year":1995, "price":"€17.25"}
+{"id":16283464402471421583, "title":"Look Homeward, Angel", "author":"Sharyl Harris", "genre":"Comic/Graphic Novel", "publisher":"St. Martin"s Press", "year":2005, "price":"$68.00"}
+{"id":11510968849163858264, "title":"It"s a Battlefield", "author":"Joanna Schamberger IV", "genre":"Legend", "publisher":"Firebrand Books", "year":2023, "price":"$15.0"}
+{"id":13468617880905077901, "title":"It"s a Battlefield", "author":"Christiana Howe", "genre":"Mythopoeia", "publisher":"Harcourt Assessment", "year":1990, "price":"$41.99"}
+{"id":18238229371995048775, "title":"The Needle"s Eye", "author":"Johnnie Hand", "genre":"Fairy tale", "publisher":"Adis International", "year":1997, "price":"$14.5"}
+{"id":9509370713043963148, "title":"If Not Now, When?", "author":"Deandre McLaughlin IV", "genre":"Mythology", "publisher":"Ellora"s Cave", "year":2002, "price":"€69.50"}
+{"id":14493714280306004258, "title":"All the King"s Men", "author":"Raymon Abbott", "genre":"Narrative nonfiction", "publisher":"Carlton Books", "year":2009, "price":"$21.5"}
+{"id":15244893912329519191, "title":"The Heart Is Deceitful Above All Things", "author":"Morton Streich", "genre":"Suspense/Thriller", "publisher":"Charles Scribner"s Sons", "year":2019, "price":"$89.0"}
+{"id":17315480461125690108, "title":"L"Odeur du sanglier", "author":"Lazare Remy", "genre":"Fable", "publisher":"Éditions du Soleil", "year":2007, "price":"$51.25"}
+{"id":14895034280068137838, "title":"The Lathe of Heaven", "author":"Karyn Becker", "genre":"Fiction in verse", "publisher":"Gay Men"s Press", "year":1994, "price":"€44.99"}
+{"id":18209007809905734532, "title":"L"Odyssée invisible", "author":"Cdt. Adonise Rémy", "genre":"Humor", "publisher":"Éditions du Soleil", "year":1992, "price":"$34.50"}
+{"id":11178161741243224381, "title":"Blood"s a Rover", "author":"Micheal Mann V", "genre":"Mythopoeia", "publisher":"Harper & Row", "year":2024, "price":"$55.99"}
+{"id":14857276665145360861, "title":"In a Glass Darkly", "author":"Ismael Johnson", "genre":"Metafiction", "publisher":"Gay Men"s Press", "year":2006, "price":"$83.0"}
+{"id":16638730866636057276, "title":"The Wealth of Nations", "author":"Merlene Larson DO", "genre":"Fairy tale", "publisher":"Ellora"s Cave", "year":2013, "price":"$23.75"}
+{"id":12541006835462498079, "title":"The Stars" Tennis Balls", "author":"Abraham Konopelski", "genre":"Crime/Detective", "publisher":"HarperPrism", "year":2022, "price":"$48.0"}
+{"id":14185776996391263760, "title":"What"s Become of Waring", "author":"Murray Waelchi", "genre":"Short story", "publisher":"Carcanet Press", "year":2023, "price":"$29.99"}
+{"id":17284292365257013835, "title":"The Wind"s Twelve Quarters", "author":"August Frami", "genre":"Fanfiction", "publisher":"Velazquez Press", "year":1993, "price":"$89.25"}
+{"id":12588247249924414363, "title":"Edna O"Brien", "author":"Eliana Herzog", "genre":"Fairy tale", "publisher":"Manor House Publishing", "year":1994, "price":"$46.75"}
+{"id":9703659046099992809, "title":"Blood"s a Rover", "author":"Moses Christiansen", "genre":"Tall tale", "publisher":"Firebrand Books", "year":2022, "price":"$29.99"}
+{"id":17111182185421098289, "title":"What"s Become of Waring", "author":"Tien Jakubowski Ret.", "genre":"Fiction in verse", "publisher":"Broadview Press", "year":2002, "price":"$11.50"}
+{"id":12948536836027100980, "title":"The Monkey"s Raincoat", "author":"Omer Weimann I", "genre":"Fanfiction", "publisher":"Hay House", "year":1986, "price":"$9.75"}
+{"id":12413501807639951775, "title":"The Mirror Crack"d from Side to Side", "author":"Cherrie Johns JD", "genre":"Fable", "publisher":"Harry N. Abrams, Inc.", "year":2019, "price":"€33.50"}
+{"id":17395008806881125029, "title":"Edna O"Brien", "author":"Juan Nikolaus", "genre":"Legend", "publisher":"Tate Publishing & Enterprises", "year":2022, "price":"$58.25"}
+{"id":15920445407356259528, "title":"A Darkling Plain", "author":"Gov. Burton O"Keefe", "genre":"Biography/Autobiography", "publisher":"Harper & Row", "year":2015, "price":"€42.99"}
+{"id":10160349435254221006, "title":"All the King"s Men", "author":"Shanell Rogahn", "genre":"Fantasy", "publisher":"Holland Park Press", "year":1988, "price":"$93.25"}
+{"id":10988619067988513700, "title":"The Monkey"s Raincoat", "author":"Jewell Bogisich Ret., Janelle Schamberger", "genre":"Folklore", "publisher":"Harcourt Assessment", "year":1989, "price":"$67.00"}
+{"id":12102095980341959939, "title":"What"s Become of Waring", "author":"Hoyt Macejkovic", "genre":"Historical fiction", "publisher":"Atlantic Books", "year":2019, "price":"$87.00"}
+{"id":9771919782885091089, "title":"Now Sleeps the Crimson Petal", "author":"Eleonora O"Reilly", "genre":"Short story", "publisher":"Hachette Book Group USA", "year":1938, "price":"€20.99"}
+{"id":16517731000048000487, "title":"What"s Become of Waring", "author":"Annice Marks", "genre":"Essay", "publisher":"Marshall Pickering", "year":1994, "price":"$31.50"}
+{"id":14768241684028332295, "title":"Blood"s a Rover", "author":"Keshia Lubowitz", "genre":"Humor", "publisher":"Bantam Books", "year":2014, "price":"$89.75"}
+{"id":9232465766384456217, "title":"Vanity Fair", "author":"Carmelina Murazik", "genre":"Metafiction", "publisher":"St. Martin"s Press", "year":1998, "price":"€38.5"}
+{"id":10994369283522579869, "title":"L"Odeur du sanglier", "author":"Isabeau Etienne", "genre":"Folklore", "publisher":"Lire en dormant", "year":1958, "price":"$47.25"}
+{"id":12057321566036323017, "title":"What"s Become of Waring", "author":"Reuben Rolfson", "genre":"Mythopoeia", "publisher":"Random House", "year":1905, "price":"$33.75"}
+{"id":16103969400200936357, "title":"The Stars" Tennis Balls", "author":"Junior Kutch IV", "genre":"Fairy tale", "publisher":"FabJob", "year":2016, "price":"$23.5"}
+{"id":12653586925448943851, "title":"Ring of Bright Water", "author":"Sandy Abshire", "genre":"Classic", "publisher":"G. P. Putnam"s Sons", "year":1988, "price":"€40.99"}
+{"id":9423284048943219445, "title":"The Needle"s Eye", "author":"Jonah Cole, Socorro Gerlach", "genre":"Biography/Autobiography", "publisher":"University of Minnesota Press", "year":1886, "price":"$83.99"}
+{"id":9274992095609861044, "title":"The Wind"s Twelve Quarters", "author":"Donnie Wyman, Luther Grant", "genre":"Metafiction", "publisher":"Nauka", "year":2007, "price":"$29.5"}
+{"id":17593058811599478023, "title":"The Needle"s Eye", "author":"Von Flatley", "genre":"Mythopoeia", "publisher":"Packt Publishing", "year":1993, "price":"€36.75"}
+{"id":17817334381161094757, "title":"L"Odyssée invisible", "author":"Capt. Germain Pasquier, Mme Guy Guichard", "genre":"Fanfiction", "publisher":"La Perdrix", "year":2015, "price":"€72.5"}
+{"id":13816601593622019281, "title":"What"s Become of Waring", "author":"The Hon. Domonique Kuhn", "genre":"Fiction narrative", "publisher":"Mandrake of Oxford", "year":2020, "price":"$59.00"}
+{"id":13879155974831494849, "title":"All the King"s Men", "author":"Msgr. Ayako Hartmann", "genre":"Metafiction", "publisher":"McFarland & Company", "year":2009, "price":"$75.00"}
+{"id":12617377842055353699, "title":"The Yellow Meads of Asphodel", "author":"Gussie Kilback", "genre":"Fiction narrative", "publisher":"St. Martin"s Press", "year":2000, "price":"€31.00"}
+{"id":10986956095682963641, "title":"Waiting for the Barbarians", "author":"Layne Nolan", "genre":"Classic", "publisher":"St. Martin"s Press", "year":2024, "price":"$32.50"}
+{"id":11898261919512999503, "title":"L"Odyssée invisible", "author":"Grondin Raymond, Lt. Colin Perez", "genre":"Biography/Autobiography", "publisher":"Éditions du Soleil", "year":1904, "price":"$42.25"}
+{"id":17303003651069057040, "title":"The Stars" Tennis Balls", "author":"Gidget Ryan", "genre":"Short story", "publisher":"David & Charles", "year":1993, "price":"$50.25"}
+{"id":17178926940600739712, "title":"L"Odeur du sanglier", "author":"Reine Petit", "genre":"Mystery", "publisher":"Les Éditions jaune turquoise", "year":2004, "price":"€67.25"}
+{"id":12768271083972220160, "title":"The Wind"s Twelve Quarters", "author":"Valene Schmeler MD", "genre":"Reference book", "publisher":"Daedalus Publishing", "year":2003, "price":"$73.5"}
+{"id":13768188410750752610, "title":"Precious Bane", "author":"Cammy Stiedemann, Roger O"Conner", "genre":"Folklore", "publisher":"Nonesuch Press", "year":2009, "price":"$98.75"}
+{"id":11402631709127692764, "title":"Clouds of Witness", "author":"Geraldine D"Amore DVM", "genre":"Fiction narrative", "publisher":"Lethe Press", "year":1987, "price":"$77.99"}
+{"id":10475199852433233428, "title":"Fair Stood the Wind for France", "author":"Clair O"Connell", "genre":"Fairy tale", "publisher":"Butterworth-Heinemann", "year":2017, "price":"€46.25"}
+{"id":15382413218465026284, "title":"The Monkey"s Raincoat", "author":"Buster Larkin", "genre":"Science fiction", "publisher":"Hodder & Stoughton", "year":2005, "price":"$40.25"}
+{"id":16438114627921123190, "title":"What"s Become of Waring", "author":"Rhett Beer I", "genre":"Science fiction", "publisher":"Cisco Press", "year":2023, "price":"$42.5"}
+{"id":12588176117756457118, "title":"It"s a Battlefield", "author":"Rep. Shannan Hilpert", "genre":"Tall tale", "publisher":"Academic Press", "year":2011, "price":"$46.75"}
+{"id":17954601462266842083, "title":"O Jerusalem!", "author":"Elliott O"Keefe", "genre":"Fantasy", "publisher":"Eerdmans Publishing", "year":1993, "price":"$57.0"}
+{"id":16999587357548888815, "title":"Great Work of Time", "author":"Estell O"Connell", "genre":"Mythology", "publisher":"Ladybird Books", "year":1990, "price":"$4.0"}
+{"id":16361615042139799586, "title":"The Soldier"s Art", "author":"Zulma Berge", "genre":"Narrative nonfiction", "publisher":"E. P. Dutton", "year":2005, "price":"€66.75"}
+{"id":17453052483019632090, "title":"The Soldier"s Art", "author":"Dr. Adelaide Hansen", "genre":"Historical fiction", "publisher":"Holt McDougal", "year":2006, "price":"$38.50"}
+{"id":13860680526652598371, "title":"Blood"s a Rover", "author":"Juan Hudson", "genre":"Horror", "publisher":"Book Works", "year":1997, "price":"€65.50"}
+{"id":9271384075479500513, "title":"Absalom, Absalom!", "author":"Devorah Herzog", "genre":"Mystery", "publisher":"Charles Scribner"s Sons", "year":1994, "price":"$19.99"}
+{"id":11231235267061238818, "title":"The Wind"s Twelve Quarters", "author":"Gov. Elias Barrows", "genre":"Legend", "publisher":"Darakwon Press", "year":2000, "price":"$98.50"}
+{"id":12982147294439537876, "title":"The Wind"s Twelve Quarters", "author":"Dollie Hartmann", "genre":"Reference book", "publisher":"Gaspereau Press", "year":1993, "price":"€72.5"}
+{"id":16441997912619033261, "title":"The Monkey"s Raincoat", "author":"Amb. Alphonse Carroll", "genre":"Fanfiction", "publisher":"Emerald Group Publishing", "year":1988, "price":"€34.25"}
+{"id":14761915607314088486, "title":"All the King"s Men", "author":"Devin McCullough Sr., Ms. Jerlene Harris", "genre":"Fable", "publisher":"Applewood Books", "year":1996, "price":"$74.75"}
+{"id":12067503558564782719, "title":"Blood"s a Rover", "author":"Rev. Virgilio Bernhard", "genre":"Textbook", "publisher":"Elsevier", "year":2000, "price":"$79.0"}
+{"id":11530985992623142972, "title":"L"Odyssée invisible", "author":"Adhémar Riviere", "genre":"Speech", "publisher":"Éditions du Soleil", "year":2017, "price":"$48.0"}
+{"id":9624879983354945094, "title":"Gone with the Wind", "author":"Salena Lind", "genre":"Science fiction", "publisher":"Charles Scribner"s Sons", "year":2025, "price":"€44.75"}
+{"id":13819797617720740950, "title":"Blood"s a Rover", "author":"Rep. Ivey Labadie", "genre":"Essay", "publisher":"HarperCollins", "year":2010, "price":"€48.50"}
+{"id":16043877562361561478, "title":"The Needle"s Eye", "author":"Dirk Hegmann", "genre":"Fantasy", "publisher":"Barrie & Jenkins", "year":2020, "price":"€71.25"}
+{"id":11454486519283966238, "title":"The Needle"s Eye", "author":"Rev. Kimbra Borer", "genre":"Mythopoeia", "publisher":"Velazquez Press", "year":1986, "price":"$63.00"}
+{"id":17796313356396562926, "title":"Dying of the Light", "author":"Eugenio Pollich", "genre":"Fiction narrative", "publisher":"Ellora"s Cave", "year":2020, "price":"$7.75"}
+{"id":17573009133495789671, "title":"Specimen Days", "author":"Rev. Kesha Rempel", "genre":"Mythopoeia", "publisher":"Charles Scribner"s Sons", "year":2004, "price":"$19.99"}
+{"id":18367369570771176510, "title":"If Not Now, When?", "author":"Chantal Watsica", "genre":"Fiction in verse", "publisher":"Charles Scribner"s Sons", "year":1886, "price":"$85.00"}
+{"id":16384233148462478134, "title":"Fame Is the Spur", "author":"Trula Hickle Sr.", "genre":"Legend", "publisher":"Gay Men"s Press", "year":2019, "price":"€18.00"}
+{"id":12555199302916473229, "title":"Ego Dominus Tuus", "author":"Etsuko Heidenreich", "genre":"Biography/Autobiography", "publisher":"O"Reilly Media", "year":2010, "price":"$66.5"}
+{"id":16295371015671078683, "title":"L"Odeur du sanglier", "author":"Petit Anastase", "genre":"Legend", "publisher":"La Perdrix", "year":2010, "price":"€17.5"}
+{"id":9716073732330392219, "title":"L"Odyssée invisible", "author":"Roch Deschamps", "genre":"Biography/Autobiography", "publisher":"Bordel père et fils", "year":2021, "price":"€23.25"}
+{"id":18177826826255267933, "title":"Many Waters", "author":"Shela Hoeger", "genre":"Realistic fiction", "publisher":"Gay Men"s Press", "year":1998, "price":"€70.50"}
+{"id":14050247954150668754, "title":"The Needle"s Eye", "author":"Carlee Kris MD", "genre":"Narrative nonfiction", "publisher":"Blue Ribbon Books", "year":1996, "price":"€15.75"}
+{"id":9274937966322737869, "title":"Dance Dance Dance", "author":"Easter Sporer, Palma O"Conner", "genre":"Biography/Autobiography", "publisher":"Eel Pie Publishing", "year":2008, "price":"$14.5"}
+{"id":12469573207591869306, "title":"The Needle"s Eye", "author":"Danny Leannon", "genre":"Humor", "publisher":"Borgo Press", "year":2007, "price":"$29.00"}
+{"id":9619049724423581460, "title":"The Needle"s Eye", "author":"Kaylene Powlowski", "genre":"Fiction narrative", "publisher":"Emerald Group Publishing", "year":2026, "price":"$66.5"}
+{"id":15325608529491267788, "title":"Blood"s a Rover", "author":"Anisa Orn", "genre":"Narrative nonfiction", "publisher":"University of Michigan Press", "year":1990, "price":"$70.50"}
+{"id":18430255013079351161, "title":"A Summer Bird-Cage", "author":"Rev. Ali Howe", "genre":"Fiction narrative", "publisher":"Gay Men"s Press", "year":2019, "price":"$63.0"}
+{"id":10204498620304160665, "title":"The Soldier"s Art", "author":"Amb. Luciana Ernser", "genre":"Humor", "publisher":"Leaf Books", "year":2004, "price":"$47.25"}
+{"id":15141653951902848564, "title":"Down to a Sunless Sea", "author":"Vincent Walter III", "genre":"Mystery", "publisher":"St. Martin"s Press", "year":2007, "price":"$14.99"}
+{"id":15989180580536790157, "title":"All the King"s Men", "author":"Msgr. Lyndon Rohan", "genre":"Western", "publisher":"Del Rey Books", "year":1995, "price":"$41.99"}
+{"id":10397493864665564690, "title":"The Needle"s Eye", "author":"Prof. Liliana Bosco", "genre":"Reference book", "publisher":"Open University Press", "year":1992, "price":"€17.25"}
+{"id":14130705444295157636, "title":"Infinite Jest", "author":"Dr. Dominick Kuhlman", "genre":"Western", "publisher":"G. P. Putnam"s Sons", "year":2023, "price":"$51.99"}
+{"id":17214260625005693361, "title":"Let Us Now Praise Famous Men", "author":"Miss Jannette Lakin", "genre":"Fiction narrative", "publisher":"Ellora"s Cave", "year":2023, "price":"€44.5"}
+{"id":16225117241720603543, "title":"Edna O"Brien", "author":"Sunni Kling, Rosemary Hahn", "genre":"Mythopoeia", "publisher":"Atheneum Books", "year":1988, "price":"$35.25"}
+{"id":13213935688370319118, "title":"What"s Become of Waring", "author":"Darcy Hagenes", "genre":"Mythology", "publisher":"Shoemaker & Hoard Publishers", "year":2003, "price":"$57.0"}
+{"id":11289289902258294843, "title":"What"s Become of Waring", "author":"Cletus Schaefer", "genre":"Crime/Detective", "publisher":"Harlequin Enterprises Ltd", "year":1988, "price":"$62.25"}
+{"id":15629478848666658704, "title":"L"Odeur du sanglier", "author":"Marchal Marcel", "genre":"Fairy tale", "publisher":"La Perdrix", "year":1989, "price":"$33.99"}
+{"id":17344023894677826009, "title":"Blood"s a Rover", "author":"Steve Macejkovic", "genre":"Speech", "publisher":"Tachyon Publications", "year":2021, "price":"€27.50"}
+{"id":13400347173887024129, "title":"What"s Become of Waring", "author":"Mrs. Lacy White", "genre":"Comic/Graphic Novel", "publisher":"Vintage Books", "year":1987, "price":"€42.75"}
+{"id":13820112586284670398, "title":"Where Angels Fear to Tread", "author":"Benton O"Keefe JD", "genre":"Fable", "publisher":"BBC Books", "year":2026, "price":"$32.5"}
+{"id":17271141698124091355, "title":"A Time to Kill", "author":"Maurice Aufderhar", "genre":"Mythology", "publisher":"St. Martin"s Press", "year":2009, "price":"$70.50"}
+{"id":12131905785265025057, "title":"It"s a Battlefield", "author":"Msgr. Leanna Roberts", "genre":"Fanfiction", "publisher":"Vintage Books", "year":2019, "price":"$47.50"}
+{"id":12819962592506595806, "title":"A Swiftly Tilting Planet", "author":"Steven D"Amore", "genre":"Fiction in verse", "publisher":"Gay Men"s Press", "year":2012, "price":"$76.0"}
+{"id":15996344802875068556, "title":"Edna O"Brien", "author":"Julieann Zieme, Rochel Christiansen", "genre":"Essay", "publisher":"Sidgwick & Jackson", "year":1990, "price":"$62.50"}
+{"id":12170889503417433796, "title":"Edna O"Brien", "author":"Dr. Weldon Littel", "genre":"Mythology", "publisher":"McGraw Hill Financial", "year":1990, "price":"$62.00"}
+{"id":14178334397967915641, "title":"Great Work of Time", "author":"Willa O"Hara", "genre":"Comic/Graphic Novel", "publisher":"Canongate Books", "year":2009, "price":"$71.99"}
+{"id":11941477899331511460, "title":"The Soldier"s Art", "author":"Prof. Landon Bailey", "genre":"Fairy tale", "publisher":"Atlantic Books", "year":1994, "price":"$36.25"}
+{"id":11762655450161123708, "title":"The Monkey"s Raincoat", "author":"Camille Lynch", "genre":"Legend", "publisher":"Orchard Books", "year":2016, "price":"€28.5"}
+{"id":18368765537567137936, "title":"L"Odyssée invisible", "author":"Lt. Emmanuel Laurent", "genre":"Crime/Detective", "publisher":"Bordel père et fils", "year":2024, "price":"$67.00"}
+{"id":16361833497359260790, "title":"The Glory and the Dream", "author":"Yolonda Kessler", "genre":"Metafiction", "publisher":"G. P. Putnam"s Sons", "year":2003, "price":"€16.5"}
+{"id":13089563220572540882, "title":"What"s Become of Waring", "author":"Edmundo Becker III", "genre":"Historical fiction", "publisher":"Indiana University Press", "year":1992, "price":"€22.75"}
+{"id":17777855766331881569, "title":"The Moving Toyshop", "author":"Courtney Hermiston", "genre":"Classic", "publisher":"Charles Scribner"s Sons", "year":1990, "price":"$10.50"}
+{"id":11601345933398524127, "title":"What"s Become of Waring", "author":"Grady Batz Esq.", "genre":"Tall tale", "publisher":"Manning Publications", "year":2003, "price":"$84.0"}
+{"id":17768353096989206848, "title":"L"Odyssée invisible", "author":"Candide Vidal, Col. Florian Picard", "genre":"Reference book", "publisher":"La Perdrix", "year":2002, "price":"$63.75"}
+{"id":13670060295440269232, "title":"The Needle"s Eye", "author":"Huong Harber", "genre":"Mystery", "publisher":"Basic Books", "year":2011, "price":"$95.5"}
+{"id":16540292444294951934, "title":"No Highway", "author":"Kristin O"Connell DDS", "genre":"Historical fiction", "publisher":"University of California Press", "year":2021, "price":"$17.5"}
+{"id":9938228846771782493, "title":"It"s a Battlefield", "author":"Shelton Daniel", "genre":"Fairy tale", "publisher":"Simon & Schuster", "year":1992, "price":"€32.0"}
+{"id":10500424587921657726, "title":"Specimen Days", "author":"Quintin D"Amore", "genre":"Folklore", "publisher":"Manchester University Press", "year":2021, "price":"$39.75"}
+{"id":15384293748475449441, "title":"The Stars" Tennis Balls", "author":"Delma Hand", "genre":"Reference book", "publisher":"Marshall Pickering", "year":2002, "price":"€79.75"}
+{"id":16426388479384839444, "title":"The Monkey"s Raincoat", "author":"Rigoberto Hartmann, Sally Ryan DDS", "genre":"Fiction narrative", "publisher":"Salt Publishing", "year":2022, "price":"$56.50"}
+{"id":9260678427158647340, "title":"Specimen Days", "author":"Darin Rath, Lashandra Klein DDS", "genre":"Folklore", "publisher":"Charles Scribner"s Sons", "year":2024, "price":"$78.75"}
+{"id":16828061979634215549, "title":"Blood"s a Rover", "author":"Liberty Gislason", "genre":"Science fiction", "publisher":"McFarland & Company", "year":1995, "price":"€4.0"}
+{"id":9886748270440086102, "title":"The Needle"s Eye", "author":"Chassidy Mosciski", "genre":"Tall tale", "publisher":"Black Dog Publishing", "year":2009, "price":"$20.99"}
+{"id":18360100704889793852, "title":"The Soldier"s Art", "author":"Herminia Kihn", "genre":"Biography/Autobiography", "publisher":"Target Books", "year":2016, "price":"$8.0"}
+{"id":15503866876427605145, "title":"The Soldier"s Art", "author":"Andree Buckridge", "genre":"Fiction narrative", "publisher":"Nonesuch Press", "year":2006, "price":"$97.00"}
+{"id":11334398203918594665, "title":"L"Odeur du sanglier", "author":"Sr. Mireille Riviere", "genre":"Speech", "publisher":"Les Éditions jaune turquoise", "year":2009, "price":"$75.50"}
+{"id":14554812251872766842, "title":"L"Odeur du sanglier", "author":"Sgt. Adenet Guillot", "genre":"Biography/Autobiography", "publisher":"Éditions du Soleil", "year":2011, "price":"€66.0"}
+{"id":9243866068677811726, "title":"Fame Is the Spur", "author":"Sammy Kerluke", "genre":"Classic", "publisher":"O"Reilly Media", "year":2004, "price":"$16.50"}
+{"id":10441083702377161881, "title":"Shall not Perish", "author":"Fr. Coleman Mante", "genre":"Fanfiction", "publisher":"Ellora"s Cave", "year":2021, "price":"€18.75"}
+{"id":12831176148869497297, "title":"The Stars" Tennis Balls", "author":"Jared Friesen", "genre":"Folklore", "publisher":"Virago Press", "year":2004, "price":"$41.0"}
+{"id":17475246512035964762, "title":"His Dark Materials", "author":"Forrest Thompson DC", "genre":"Essay", "publisher":"St. Martin"s Press", "year":2012, "price":"€29.0"}
+{"id":11835002080530199783, "title":"Specimen Days", "author":"Alysha Schiller", "genre":"Speech", "publisher":"G. P. Putnam"s Sons", "year":2018, "price":"€70.25"}
+{"id":18178447654060533493, "title":"Edna O"Brien", "author":"Dirk Schneider Sr., Thu Goyette", "genre":"Mythology", "publisher":"Breslov Research Institute", "year":2026, "price":"$54.99"}
+{"id":17287759507856462427, "title":"Blood"s a Rover", "author":"Prof. Lauren Schuster", "genre":"Fairy tale", "publisher":"Harvest House", "year":2017, "price":"$76.5"}
+{"id":18209625581159668692, "title":"The Wind"s Twelve Quarters", "author":"Lucila Considine", "genre":"Tall tale", "publisher":"Flame Tree Publishing", "year":1998, "price":"$7.00"}
+{"id":18087151557851762270, "title":"A Scanner Darkly", "author":"Ambrose O"Reilly", "genre":"Mystery", "publisher":"G. P. Putnam"s Sons", "year":2025, "price":"$42.99"}
+{"id":13668679121174657818, "title":"Edna O"Brien", "author":"Wilber Lubowitz", "genre":"Western", "publisher":"Happy House", "year":2000, "price":"€59.00"}
+{"id":9785673583762788835, "title":"Time of our Darkness", "author":"Carson Rutherford", "genre":"Fable", "publisher":"Ellora"s Cave", "year":2011, "price":"$76.0"}
+{"id":17558641734513700378, "title":"The Soldier"s Art", "author":"Glady Kassulke", "genre":"Western", "publisher":"Carlton Publishing Group", "year":2024, "price":"$50.75"}
+{"id":17940502259016011144, "title":"A Farewell to Arms", "author":"Lissette Lang", "genre":"Legend", "publisher":"G. P. Putnam"s Sons", "year":2015, "price":"€40.25"}
+{"id":15858268687328836182, "title":"Fear and Trembling", "author":"Dewey D"Amore", "genre":"Essay", "publisher":"Harcourt Assessment", "year":1999, "price":"$76.0"}
+{"id":11181988796317273827, "title":"The Needle"s Eye", "author":"Chong Bogan", "genre":"Classic", "publisher":"Manchester University Press", "year":1993, "price":"$46.25"}
+{"id":17583548015206149328, "title":"This Lime Tree Bower", "author":"Lecia McCullough", "genre":"Mythopoeia", "publisher":"St. Martin"s Press", "year":2005, "price":"€18.50"}
+{"id":13242692530004707367, "title":"Precious Bane", "author":"Emery Cremin Esq.", "genre":"Crime/Detective", "publisher":"Charles Scribner"s Sons", "year":1905, "price":"$47.0"}
+{"id":14293033895089711500, "title":"What"s Become of Waring", "author":"The Hon. Luigi Koelpin", "genre":"Science fiction", "publisher":"Hay House", "year":2017, "price":"$68.99"}
+{"id":14212236148357204529, "title":"The Far-Distant Oxus", "author":"Nelson Mueller", "genre":"Western", "publisher":"Ellora"s Cave", "year":2006, "price":"$66.5"}
+{"id":13437221090176979582, "title":"The Needle"s Eye", "author":"Jamel Wintheiser, Wade Lehner", "genre":"Science fiction", "publisher":"Ten Speed Press", "year":1989, "price":"$54.99"}
+{"id":14746810987568264425, "title":"Blood"s a Rover", "author":"Lesli Macejkovic", "genre":"Tall tale", "publisher":"Booktrope", "year":2002, "price":"$75.00"}
+{"id":14945494041118167260, "title":"The Soldier"s Art", "author":"Odelia Harris CPA", "genre":"Tall tale", "publisher":"Mark Batty Publisher", "year":1904, "price":"$98.5"}
+{"id":18251313820489600267, "title":"Blood"s a Rover", "author":"Lorenza Parisian", "genre":"Western", "publisher":"Mandrake of Oxford", "year":1989, "price":"$52.25"}
+{"id":11590173581195046687, "title":"As I Lay Dying", "author":"Wilmer Carter, Christeen O"Keefe III", "genre":"Fiction in verse", "publisher":"Cengage Learning", "year":1989, "price":"$59.5"}
+{"id":11292228628026454887, "title":"The Wind"s Twelve Quarters", "author":"Reggie Powlowski", "genre":"Horror", "publisher":"Farrar, Straus & Giroux", "year":1999, "price":"€45.50"}
+{"id":17489796091833063011, "title":"The Lathe of Heaven", "author":"Iva Ebert", "genre":"Mythology", "publisher":"O"Reilly Media", "year":2011, "price":"€13.00"}
+{"id":14282468590435859348, "title":"The Wind"s Twelve Quarters", "author":"Penni Botsford", "genre":"Suspense/Thriller", "publisher":"Fearless Books", "year":1989, "price":"€18.75"}
+{"id":17309879095120325282, "title":"Precious Bane", "author":"Sen. Rebecka Harber", "genre":"Fantasy", "publisher":"Gay Men"s Press", "year":2012, "price":"$77.75"}
+{"id":12891048094907965618, "title":"What"s Become of Waring", "author":"Carmen Brekke", "genre":"Fiction narrative", "publisher":"Hawthorne Books", "year":1904, "price":"$24.5"}
+{"id":13914039426254337006, "title":"Recalled to Life", "author":"Julissa D"Amore", "genre":"Reference book", "publisher":"No Starch Press", "year":1997, "price":"$63.50"}
+{"id":17377029883556263272, "title":"Number the Stars", "author":"Jamey O"Reilly, Janey Leannon", "genre":"Fiction in verse", "publisher":"Book Works", "year":2003, "price":"€18.00"}
+{"id":15650909608878256239, "title":"The Mirror Crack"d from Side to Side", "author":"Prof. Louie Nienow", "genre":"Fantasy", "publisher":"Harvill Press at Random House", "year":2014, "price":"$72.5"}
+{"id":15192852979461794749, "title":"That Hideous Strength", "author":"Ms. Cassy Schinner", "genre":"Narrative nonfiction", "publisher":"University of Minnesota Press", "year":1999, "price":"$97.5"}]}
